@@ -1,0 +1,75 @@
+
+
+1
+
+Automatic Zoom
+Student Tim Greß (12412672)
+Supervision Main: Sebastian Hattinger (WU Wien); Univ.-Prof. Dr. Emanuel Sallinger (TU Wien)
+Lecture Foundations of International Business (WU) – parallel to project
+Global Player Mobility in Football: A League-to-LeagueNetwork Analysis
+Project Proposal
+Abstract
+This project analyzes global player mobility in professional football using transfer data from the
+Transfermarkt website. Player moves are represented as a directed, weighted network on league
+level, where edges capture transfer flows between source and destination competitions across
+seasons. Using standard network analysis methods (centrality measures, community detection,
+and tier-flow indicators), the project aims to describe league roles such as exporters, importers,
+and bridging markets, and to identify mobility regions and lower- to top-division pathways.
+The analysis follows a CRISP-DM workflow and evaluates the results through hypothesis
+testing, robustness checks, and comparison to a simple randomized baseline network.
+Motivation and Problem Statement
+Professional football can be seen as a global labor market, where players move between clubs
+and leagues across countries. Many commonly used terms such as “selling leagues”, “import
+leagues”, or “stepping-stone pathways” are mostly qualitative and not easy to reproduce. A
+league-to-league network gives a clear and data-driven view of mobility pipelines and intercon-
+nections across seasons. The dataset from Transfermarkt contains structured information on
+players, clubs, leagues and transfers (including transfer type and fees), so it should be possible
+to analyze movements between countries and also between lower and top divisions.
+Research Questions
+• RQ1 – Mobility structure / concentration: How is player mobility between leagues
+structured as a directed and weighted network, and how concentrated are incoming transfer
+flows across leagues?
+• RQ2 – Centrality and roles: Which leagues primarily act as senders or receivers of players,
+and which leagues function as bridges between otherwise weakly connected parts of the
+network?
+• RQ3 – Communities / mobility regions: Are there clusters of leagues that form strongly
+connected mobility ecosystems and how stable are these clusters across seasons?
+• RQ4 – Lower-league pathways: How important are transfers between lower tiers and top
+tiers, and how do these pathways differ from top-tier mobility?
+Hypotheses
+• H1 – Concentration: Incoming transfer flows are highly concentrated, with a small set of
+leagues accounting for a large share of all incoming transfers.
+• H2 – Bridges: Some mid-level leagues exhibit disproportionately high betweenness central-
+ity and act as bridges between regions and/or tier systems.
+• H3 – Communities: The network exhibits non-random community structure, with detected
+communities showing higher modularity and/or greater stability than in a randomized
+baseline network.
+• H4 – Lower-league pathways: Transfers originating from lower tiers are more likely to be
+domestic and upward (from lower to higher tier) within the same country, while cross-border
+moves are relatively less common compared to top-tier mobility.
+Methodology
+The project follows CRISP-DM and standard data science practice.
+• Business understanding: Define scope (years, competitions/leagues, and which transfer
+types to include). This is mainly determined by the available data.
+• Data understanding: Inspect coverage, missing values, and consistency of league/club
+identifiers and seasons. This was already done on a small subset to write this proposal.
+• Data preparation: Map each transfer to source league →destination league for a given
+season. Create edge lists per season and an aggregated graph. Include loans as an attribute.
+Store fee information as an attribute.
+• Modeling / analysis: Build directed weighted graphs per season and overall. Compute (i)
+import/export rankings (weighted in/out degree), (ii) betweenness for bridge leagues, and
+(iii) community detection (Louvain/Leiden). Report domestic vs. international shares and
+tier-flow indicators (lower→top division).
+• Evaluation: (i) Test the hypotheses using the computed metrics and clear summaries, (ii)
+robustness checks (with vs. without loans; season-wise vs. aggregated), and (iii) baseline
+comparison using a simple null model (randomized graph with preserved degrees) to show
+whether the observed structure is stronger than random.
+Expected Results and KPIs / Success Criteria
+• Reproducible pipeline: End-to-end notebook that builds the league mobility graphs per
+season from raw data.
+• Core outputs per season: (a) summary table with top importers/exporters and bridge
+leagues, (b) community assignment, (c) domestic vs. international share.
+• Visual outputs: Clear figures: league-to-league flow heatmap and community/network
+visualizations.
+• Null model result: Report at a quantitative comparison vs. the randomized baseline (e.g.
+higher modularity or stronger flow concentration than the null).
