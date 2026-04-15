@@ -1,0 +1,1436 @@
+competition_id,league_name,country_id,tier,source_url,canonical_competition_id,prior_league_names
+
+17LA,U17 DFB-Nachwuchsliga - Hauptrunde Liga A,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/17LA,,
+
+17LB,U17 DFB-Nachwuchsliga - Hauptrunde Liga B,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/17LB,,
+
+181F,U18 Divisie 1 Herbst,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/181F,,
+
+181S,U18 Divisie 1 Frühling,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/181S,,
+
+182F,U18 Divisie 2 Herbst,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/182F,,
+
+182S,U18 Divisie 2 Frühling,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/182S,,
+
+18GB,U18 Premier League - Final Stage,189.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/18GB,,
+
+19D2,U19 DFB-Nachwuchsliga - Vorrunde Gruppe B,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D2,,
+
+19D3,U19 DFB-Nachwuchsliga - Vorrunde Gruppe C,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D3,,
+
+19D4,U19 DFB-Nachwuchsliga - Vorrunde Gruppe D,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D4,,
+
+19D5,U19 DFB-Nachwuchsliga - Vorrunde Gruppe E,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D5,,
+
+19D6,U19 DFB-Nachwuchsliga - Vorrunde Gruppe F,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D6,,
+
+19D7,U19 DFB-Nachwuchsliga - Vorrunde Gruppe G,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D7,,
+
+19D8,U19 DFB-Nachwuchsliga - Vorrunde Gruppe H,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D8,,
+
+19D9,U19 DFB-Nachwuchsliga - Vorrunde Gruppe I,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D9,,
+
+19LA,U19 DFB-Nachwuchsliga - Hauptrunde Liga A,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19LA,,
+
+19LB,U19 DFB-Nachwuchsliga - Hauptrunde Liga B,40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19LB,,
+
+1LG4,1. Liga Gruppe 4 (bis 99/00),148.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/1LG4,CHPR,
+
+211F,U21 Divisie 1 Herbst,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/211F,,
+
+212F,U21 Divisie 2 Herbst,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/212F,,
+
+212S,U21 Divisie 2 Frühling,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/212S,,
+
+2DVB,2. Division B,141.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/2DVB,,
+
+3PTP,Liga 3 - Finale,136.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/3PTP,,
+
+510,Derde Divisie A,122.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/510,,
+
+511,Derde Divisie B,122.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/511,,
+
+A1,Bundesliga,127.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A1,,
+
+A2,2. Liga,127.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A2,,
+
+A2SW,National Premier League - New South Wales,12.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A2SW,,
+
+A2VI,National Premier League - Victoria,12.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A2VI,,
+
+A4B,Burgenlandliga,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4B,,
+
+A4K,Kärntner Liga,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4K,,
+
+A4N,1. Landesliga Niederösterreich,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4N,,
+
+A4O,Oberösterreich Liga,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4O,,
+
+A4S,Salzburger Liga,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4S,,
+
+A4ST,Landesliga Steiermark,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4ST,,
+
+A4T,Regionalliga Tirol,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4T,,
+
+A4V,Eliteliga Vorarlberg,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4V,,
+
+A4W,Wiener Stadtliga,127.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4W,,
+
+ACFF,2de Nationale ACFF,19.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ACFF,,
+
+AJ1,A-Junioren Bundesliga Nord/Nordost (- 23/24),40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ1,,
+
+AJ17,ÖFB Jugendliga U17 (- 2010),127.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ17,,
+
+AJ2,A-Junioren Bundesliga West (- 23/24),40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ2,,
+
+AJ3,A-Junioren Bundesliga Süd/Südwest (- 23/24),40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ3,,
+
+AL21,Kategoria Superiore U21,3.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AL21,,
+
+ALB1,Kategoria Superiore,3.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ALB1,,
+
+ALB2,Kategoria e Parë,3.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ALB2,,
+
+ALG1,Ligue 1,4.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ALG1,,
+
+ANCR,Championship Round,5.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ANCR,,
+
+AND1,Primera Divisió,5.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AND1,,
+
+AND2,Segona Divisió,5.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AND2,,
+
+ANPO,Primera Divisió Playoffs,5.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ANPO,,
+
+ANRR,Relegation Round,5.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ANRR,,
+
+AR18,U18 Patanekan Arajnutyun,10.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR18,,
+
+AR1N,Liga Profesional de Fútbol (- 23/24),9.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR1N,,
+
+AR3D,Primera División B Clausura,9.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR3D,,
+
+AR3F,Federal A - Fase Campeonato,9.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR3F,,
+
+AR3R,Federal A - Fase Reválida,9.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR3R,,
+
+ARG1,Torneo Apertura,9.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARG1,,
+
+ARG2,Primera Nacional,9.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARG2,,
+
+ARG3,Torneo Federal A,9.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARG3,,
+
+ARGC,Torneo Clausura,9.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARGC,,
+
+ARM1,Premier League,10.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARM1,,
+
+ARM2,Armenian First League,10.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARM2,,
+
+ATRM,Regionalliga Mitte,127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ATRM,,
+
+ATRO,Regionalliga Ost,127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ATRO,,
+
+ATRW,Regionalliga West,127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ATRW,,
+
+AUS1,A-League Men,12.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AUS1,,
+
+AZ1,Premyer Liqa,13.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AZ1,,
+
+B1AP,División Profesional Apertura,23.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/B1AP,,
+
+BBPO,Landespokal Brandenburg,40.0,Cup,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BBPO,,
+
+BCE2,Campeonato Cearense - Abstiegsrunde,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BCE2,,
+
+BCP1,Campeonato Paulista,26.0,Cup,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BCP1,,
+
+BCP2,Campeonato Paulista - Troféu Independência,26.0,Cup,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BCP2,,
+
+BE1,Jupiler Pro League,19.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE1,,
+
+BE2,Challenger Pro League,19.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE2,,
+
+BE21,U21 Pro League,19.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE21,,
+
+BE3A,1ste Nationale ACFF,19.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE3A,,
+
+BE3V,1ste Nationale VV,19.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE3V,,
+
+BE5A,3de Nationale VV A,19.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE5A,,
+
+BE5B,3de Nationale VV B,19.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE5B,,
+
+BEL3,1ste Nationale,19.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BEL3,,
+
+BEY1,U18 Elite 1 - Belgien,19.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BEY1,,
+
+BGD1,Bangladesh Football League,16.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BGD1,,
+
+BH1L,Bhutan Premier League,22.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BH1L,,
+
+BH2S,Prva Liga RS,24.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BH2S,,
+
+BI17,Premijer Liga BiH U17,24.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BI17,,
+
+BI19,Premijer Liga BiH U19,24.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BI19,,
+
+BJ1,B-Junioren Bundesliga Nord/Nordost (- 23/24),40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BJ1,,
+
+BJ2,B-Junioren Bundesliga West (- 23/24),40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BJ2,,
+
+BJ3,B-Junioren Bundesliga Süd/Südwest (- 23/24),40.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BJ3,,
+
+BO1A,División Profesional,23.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BO1A,,
+
+BO1C,División Profesional Clausura,23.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BO1C,,
+
+BOS1,Premijer Liga Bosne i Hercegovine,24.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BOS1,,
+
+BOS2,Prva liga FBiH,24.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BOS2,,
+
+BR94,Vysheyshaya Liga 1994/95,18.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BR94,,
+
+BRA1,Campeonato Brasileiro Série A,26.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRA1,,
+
+BRA2,Campeonato Brasileiro Série B,26.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRA2,,
+
+BRA3,Campeonato Brasileiro Série C,26.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRA3,,
+
+BRBL,Brandenburgliga,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRBL,,
+
+BRCB,Campeonato Baiano,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCB,,
+
+BRCE,Campeonato Cearense,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCE,,
+
+BRCG,Campeonato Carioca,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCG,,
+
+BRCM,Campeonato Mineiro,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCM,,
+
+BRCR,Campeonato Carioca - Taça Rio,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCR,,
+
+BRDF,Campeonato Brasiliense,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRDF,,
+
+BRES,Campeonato Capixaba,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRES,,
+
+BRGO,Campeonato Goiano,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRGO,,
+
+BRNE,Copa do Nordeste,26.0,Cup,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRNE,,
+
+BRPB,Campeonato Paraibano,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRPB,,
+
+BRPE,Campeonato Pernambucano,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRPE,,
+
+BRQR,Campeonato Gaúcho - Abstiegsrunde,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRQR,,
+
+BRRN,Campeonato Potiguar,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRRN,,
+
+BRRS,Campeonato Gaúcho,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRRS,,
+
+BRSC,Campeonato Catarinense,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRSC,,
+
+BRga,Campeonato Gaúcho - 2º Turno,26.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRga,,
+
+BU1,efbet Liga,28.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BU1,,
+
+BU2,Vtora Liga,28.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BU2,,
+
+C1,Super League,148.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C1,,
+
+C191,Swiss U19 Elite League,148.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C191,,
+
+C2,Challenge League,148.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2,,
+
+C2I1,2. Liga interregional - Gruppe 1 (bis 11/12),148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I1,,
+
+C2I2,2. Liga interregional - Gruppe 2 (bis 11/12),148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I2,,
+
+C2I3,2. Liga interregional - Gruppe 3 (bis 11/12),148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I3,,
+
+C2I4,2. Liga interregional - Gruppe 4 (bis 11/12),148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I4,,
+
+C2I5,2. Liga interregional - Gruppe 5 (bis 11/12),148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I5,,
+
+C2I6,2. Liga interregional - Gruppe 6 (bis 11/12),148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I6,,
+
+C3AR,Championnat National 3 - Groupe K,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3AR,,
+
+C3BF,Championnat National 3 - Groupe J,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3BF,,
+
+C3BR,Championnat National 3 - Groupe E,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3BR,,
+
+C3CM,Championnat National 3 - Groupe A,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3CM,,
+
+C3GE,Championnat National 3 - Groupe I,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3GE,,
+
+C3HF,Championnat National 3 - Groupe G,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3HF,,
+
+C3IF,Championnat National 3 - Groupe H,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3IF,,
+
+C3NA,Championnat National 3 - Groupe B,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3NA,,
+
+C3NO,Championnat National 3 - Groupe F,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3NO,,
+
+C3OC,National 3 - Occitanie,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3OC,,
+
+C3PL,Championnat National 3 - Groupe D,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3PL,,
+
+C3VL,Championnat National 3 - Groupe C,50.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3VL,,
+
+CA1F,Canadian Premier League Fall Season,80.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CA1F,,
+
+CB20,CBF Brasileiro U20,26.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CB20,,
+
+CDLP,Copa de la Liga Profesional de Fútbol (- 23/24),9.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CDLP,"ARG1
+
+
+
+9.0|1""",
+
+CDN1,Canadian Premier League,80.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CDN1,,
+
+CH17,Swiss U17 Elite League,148.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH17,,
+
+CH18,Swiss U18 Elite League (bis 22/23),148.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH18,,
+
+CH2C,Primera B Clausura (-2016),33.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH2C,CHL2,
+
+CH3P,League Two Promotion Stage,34.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH3P,,
+
+CH3R,League Two Relegation Stage,34.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH3R,,
+
+CHC1,1. Liga Classic Gruppe 1,148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHC1,,
+
+CHC2,1. Liga Classic Gruppe 2,148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHC2,,
+
+CHC3,1. Liga Classic Gruppe 3,148.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHC3,,
+
+CHI3,Segunda División Profesional,33.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHI3,,
+
+CHIÜ,Torneo Transición (-2017),33.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHIÜ,CLPD,
+
+CHL1,Torneo Clausura (-2017),33.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHL1,CLPD,
+
+CHL2,Primera B Apertura (-2015),33.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHL2,CHL2,Primera B Apertura (-2015); Primera B Clausura (-2016)
+
+CHL3,China League Two A,34.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHL3,,
+
+CHLA,Torneo Apertura (-2016),33.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHLA,CLPD,
+
+CHPR,Promotion League,148.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHPR,,1. Liga Gruppe 1 (bis 11/12); 1. Liga Gruppe 2 (bis 11/12); 1. Liga Gruppe 3 (bis 11/12); 1. Liga Gruppe 4 (bis 99/00)
+
+CIR1,2. Liga interregional - Gruppe 1,148.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR1,,
+
+CIR2,2. Liga interregional - Gruppe 2,148.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR2,,
+
+CIR3,2. Liga interregional - Gruppe 3,148.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR3,,
+
+CIR4,2. Liga interregional - Gruppe 4,148.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR4,,
+
+CIR5,2. Liga interregional - Gruppe 5,148.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR5,,
+
+CIR6,2. Liga interregional - Gruppe 6 (bis 21/22),148.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR6,,
+
+CL2B,Liga de Ascenso,33.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CL2B,,
+
+CL3C,China League Two C,34.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CL3C,,
+
+CL3S,China League Two B,34.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CL3S,,
+
+CLO,China League One,34.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLO,,
+
+CLPD,Liga de Primera,33.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLPD,,Torneo Apertura (-2016); Torneo Clausura (-2017); Torneo Transición (-2017)
+
+CLPF,Copa LPF Proyección Clausura,9.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLPF,,
+
+CLPI,Copa LPF Proyección Apertura,9.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLPI,,
+
+CN2A,Championnat National 2 - Groupe A,50.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2A,,
+
+CN2B,Championnat National 2 - Groupe B,50.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2B,,
+
+CN2C,Championnat National 2 - Groupe C,50.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2C,,
+
+CN2D,Championnat National 2 - Groupe D,50.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2D,,
+
+CN44,Chinese U21 League (Final Stage),34.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN44,,
+
+CNAT,National League,189.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CNAT,,
+
+CO22,Torneo DIMAYOR II,83.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CO22,,
+
+CO2P,Fase Final Torneo DIMAYOR I,83.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CO2P,,
+
+CO2T,Torneo DIMAYOR I,83.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CO2T,,
+
+COL1,Liga Dimayor Finalización,83.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/COL1,,
+
+COLP,Liga DIMAYOR Apertura,83.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/COLP,,
+
+CPSA,Campeonato de Portugal - Série A,136.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSA,,
+
+CPSB,Campeonato de Portugal - Série B,136.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSB,,
+
+CPSC,Campeonato de Portugal - Série C,136.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSC,,
+
+CPSD,Campeonato de Portugal - Série D,136.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSD,,
+
+CR1,1. Liga Gruppe 1 (bis 11/12),148.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR1,CHPR,
+
+CR19,Prva HNL - Juniori,37.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR19,,
+
+CR2,1. Liga Gruppe 2 (bis 11/12),148.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR2,CHPR,
+
+CR3,1. Liga Gruppe 3 (bis 11/12),148.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR3,CHPR,
+
+CRPD,Primera División Apertura,36.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CRPD,,
+
+CSL,Chinese Super League,34.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CSL,,
+
+CSSF,Campionato Sammarinese Seconda Fase,144.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CSSF,,
+
+CVF,Primera División Clausura Finale,36.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CVF,,
+
+CVSP,Primera División Clausura 2. Phase (- 17/18),36.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CVSP,PDV1,
+
+CYP2,2. Division,188.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CYP2,,
+
+CZ19,1. Dorostenecka liga,172.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CZ19,,
+
+CZ21,Juniorska liga,172.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CZ21,,
+
+CZ3C,Ceska fotbalova liga,172.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CZ3C,,
+
+CZ3M,Moravskoslezska fotbalova liga,172.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CZ3M,,
+
+DK1,Superliga,39.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DK1,,
+
+DK2,1.Division,39.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DK2,,
+
+DK3O,2.Division,39.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DK3O,,
+
+DK3V,2.Division Aufstiegsrunde,39.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DK3V,,
+
+DKDA,2.Division Abstiegsrunde,39.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DKDA,,
+
+DKDD,U19 Drenge Divisionen,39.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DKDD,,
+
+DKDL,U19 Drenge Ligaen,39.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DKDL,,
+
+DO1P,Liga Dominicana de Fútbol - Liguilla,43.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DO1P,,
+
+DOM1,Liga Dominicana de Fútbol,43.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DOM1,,
+
+E21P,Premier League 2 Playoffs,189.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E21P,,
+
+E3G1,Primera Federación - Grupo I,157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E3G1,,
+
+E3G2,Primera Federación - Grupo II,157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E3G2,,
+
+E4G1,Segunda Federación - Grupo I,157.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G1,,
+
+E4G2,Segunda Federación - Grupo II,157.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G2,,
+
+E4G3,Segunda Federación - Grupo III,157.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G3,,
+
+E4G4,Segunda Federación - Grupo IV,157.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G4,,
+
+E4G5,Segunda Federación - Grupo V,157.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G5,,
+
+EC1N,LigaPro Serie A,44.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EC1N,,
+
+EC2L,Liga Pro Serie B,44.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EC2L,,
+
+ECSE,Serie A Segunda Etapa (bis 2018),44.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ECSE,,
+
+EE17,U17 Eliitliiga,47.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EE17,,
+
+EFD1,First Division (- 91/92),189.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EFD1,GB1,
+
+EFD2,First Division (- 03/04),189.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EFD2,GB2,
+
+EGY1,Egyptian Premier League,2.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EGY1,,
+
+EL1A,LigaPro Serie A Primera Etapa,44.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EL1A,,
+
+ELSA,Regionalliga Salzburg (- 2023),127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELSA,,
+
+ELTA,Regionalliga Tirol Abstiegsrunde (- 2023),127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELTA,,
+
+ELTI,Regionalliga Tirol (- 2023),127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELTI,,
+
+ELVA,Eliteliga Vorarlberg (- 2023),127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELVA,,
+
+ENSD,Second Division (- 03/04),189.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ENSD,GB3,
+
+ES1,LaLiga,157.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES1,,
+
+ES17,U17 Eliitliiga Esiliiga,47.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES17,,
+
+ES1H,Meistriliiga (92/93 bis 97/98),47.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES1H,EST1,
+
+ES2,LaLiga2,157.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES2,,
+
+ES3A,Segunda División B - Grupo I (- 20/21),157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3A,,
+
+ES3B,Segunda División B - Grupo II (-20/21),157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3B,,
+
+ES3C,Segunda División B - Grupo III (-20/21),157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3C,,
+
+ES3D,Segunda División B - Grupo IV (-20/21),157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3D,,
+
+ES3E,Segunda División B - Grupo V (- 20/21),157.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3E,,
+
+EST1,Premium Liiga,47.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EST1,,Meistriliiga (92/93 bis 97/98)
+
+EST2,Esiliiga,47.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EST2,,
+
+EST3,Esiliiga B,47.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EST3,,
+
+ETP1,Äthiopische Premier League,11.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ETP1,,
+
+EVAA,Eliteliga Vorarlberg Abstiegsrunde (- 2023),127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EVAA,,
+
+F19A,Championnat National U19 - Groupe A,50.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19A,,
+
+F19B,Championnat National U19 - Groupe B,50.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19B,,
+
+F19C,Championnat National U19 - Groupe C,50.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19C,,
+
+F19D,Championnat National U19 - Groupe D,50.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19D,,
+
+F4KP,Kolmonen Pohjoinen,49.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F4KP,,
+
+F4LA,Kolmonen Läntinen,49.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F4LA,,
+
+FAR2,1. deild,208.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FAR2,,
+
+FAR3,2. deild,208.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FAR3,,
+
+FAR4,3. deild,208.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FAR4,,
+
+FARO,Betri-deildin,208.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FARO,,
+
+FI1,Veikkausliiga,49.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI1,,
+
+FI2,Ykkösliiga,49.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI2,,
+
+FI3,Kakkonen - Region Ost,49.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3,,
+
+FI3A,Kakkonen - Gruppe A,49.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3A,,
+
+FI3B,Kakkonen - Gruppe B,49.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3B,,
+
+FI3C,Kakkonen - Gruppe C,49.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3C,,
+
+FI3N,Kakkonen - Region Nord,49.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3N,,
+
+FI3S,Kakkonen - Region Süd,49.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3S,,
+
+FI3W,Kakkonen - Region West,49.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3W,,
+
+FI4L,Kolmonen Itäinen,49.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI4L,,
+
+FIJ1,Fiji Premier League,48.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FIJ1,,
+
+FINJ,A-pojat SM-sarja Qualifikation,49.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FINJ,,
+
+FIYK,Ykkönen,49.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FIYK,,
+
+FJE,A-Pojat SM Sarja Endrunde,49.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FJE,,
+
+FR1,Ligue 1,50.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FR1,,
+
+FR2,Ligue 2,50.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FR2,,
+
+FR3,Championnat National,50.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FR3,,
+
+GB1,Premier League,189.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB1,,First Division (- 91/92)
+
+GB18,U18 Premier League,189.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB18,,
+
+GB2,Championship,189.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB2,,First Division (- 03/04)
+
+GB21,Premier League 2,189.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB21,,
+
+GB3,League One,189.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB3,,Second Division (- 03/04)
+
+GB4,League Two,189.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB4,,
+
+GBR,Premier Reserve League,189.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GBR,,
+
+GBRN,Premier Reserve League North,189.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GBRN,,
+
+GBRS,Premier Reserve League South,189.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GBRS,,
+
+GE1N,Erovnuli Liga,53.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GE1N,GEO1,
+
+GE2H,Pirveli Liga (bis 12/2016),53.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GE2H,GEO2,
+
+GEO1,Umaghlesi Liga (bis 12/2016),53.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GEO1,,Erovnuli Liga
+
+GEO2,Erovnuli Liga 2,53.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GEO2,,Pirveli Liga (bis 12/2016)
+
+GHPL,Ghana Premier League,54.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GHPL,,
+
+GI1,Gibraltar Football League,266.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GI1,,
+
+GI2,Gibraltar Second Division,266.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GI2,,
+
+GR1,Super League 1,56.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR1,,
+
+GR2,Football League,56.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR2,,
+
+GR20,Super League U19,56.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR20,,
+
+GR2N,Football League Nord,56.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR2N,,
+
+GR2S,Football League Süd,56.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR2S,,
+
+GRS2,Super League 2,56.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GRS2,,
+
+GU1A,Liga Nacional Apertura,58.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GU1A,,
+
+GU1C,Liga Nacional Clausura,58.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GU1C,,
+
+GZO1,Gozo Football League First Division,106.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GZO1,,
+
+HBZA,Vierde Divisie B Samstag,122.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HBZA,,
+
+HBZO,Vierde Divisie B Sonntag,122.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HBZO,,
+
+HGKG,Hongkong Premier League,218.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HGKG,,
+
+HK2L,Hong Kong First Division,218.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HK2L,,
+
+HK3L,Hong Kong Second Division,218.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HK3L,,
+
+HO1A,Liga Nacional Apertura,66.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HO1A,,
+
+HOC1,Liga Nacional Clausura,66.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HOC1,,
+
+IJ1,Primavera 1,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IJ1,,
+
+IJ2A,Primavera 2 - A,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IJ2A,,
+
+IJ2B,Primavera 2 - B,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IJ2B,,
+
+IKSC,Irak Super Cup,70.0,Statechampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IKSC,,
+
+ILI2,Championship,68.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ILI2,,
+
+IN1A,National Football League ('96-'07),67.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IN1A,IND1,
+
+IN1L,Super League,68.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IN1L,,
+
+IN3L,Liga Nusantara,68.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IN3L,,
+
+IND1,Indian Super League,67.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IND1,,National Football League ('96-'07)
+
+IND2,I-League 2,67.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IND2,,
+
+INIL,I-League,67.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/INIL,,
+
+INR1,Super League Kerala,67.0,StateChampionship,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/INR1,,
+
+IR1,League of Ireland Premier Division,72.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IR1,,
+
+IR1H,Azadegan League (1991 - 2001),71.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IR1H,,Persian Gulf Pro League
+
+IR2,League of Ireland First Division,72.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IR2,,
+
+IRN1,Persian Gulf Pro League,71.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IRN1,IR1H,
+
+IRN2,Azadegan League,71.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IRN2,,
+
+IRN3,League 2,71.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IRN3,,
+
+IRQ1,Iraq Stars League,70.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IRQ1,,
+
+IS1,Besta deild,73.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IS1,,
+
+IS2,Lengjudeild,73.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IS2,,
+
+ISL3,2. deild,73.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ISL3,,
+
+ISR1,Ligat ha'Al,74.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ISR1,,
+
+ISR2,Liga Leumit,74.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ISR2,,
+
+IT1,Serie A,75.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT1,,
+
+IT2,Serie B,75.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT2,,
+
+IT3A,Serie C - Girone A,75.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT3A,,
+
+IT3B,Serie C - Girone B,75.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT3B,,
+
+IT3C,Serie C - Girone C,75.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT3C,,
+
+IT4A,Serie D - Girone A,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4A,,
+
+IT4B,Serie D - Girone B,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4B,,
+
+IT4C,Serie D - Girone C,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4C,,
+
+IT4D,Serie D - Girone D,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4D,,
+
+IT4E,Serie D - Girone E,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4E,,
+
+IT4F,Serie D - Girone F,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4F,,
+
+IT4G,Serie D - Girone G,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4G,,
+
+IT4H,Serie D - Girone H,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4H,,
+
+IT4I,Serie D - Girone I,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4I,,
+
+IT4V,Lega Pro Seconda Divisione - Girone D,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4V,,
+
+IT4X,Lega Pro Seconda Divisione - Girone A,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4X,,
+
+IT4Y,Lega Pro Seconda Divisione - Girone B,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4Y,,
+
+IT4Z,Lega Pro Seconda Divisione - Girone C,75.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4Z,,
+
+ITJ0,Campionato Primavera Girone D,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ0,,
+
+ITJ1,Campionato Primavera Girone A,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ1,,
+
+ITJ2,Campionato Primavera Girone B,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ2,,
+
+ITJ3,Campionato Primavera Girone C,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ3,,
+
+ITJ4,Campionato nazionale Under 17 - A,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ4,,
+
+ITJ5,Campionato nazionale Under 17 - B,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ5,,
+
+ITJ6,Campionato nazionale Under 17 - C,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ6,,
+
+ITJ7,Campionato Under 18,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ7,,
+
+ITJ8,Campionato nazionale Under 17 2020/21,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ8,,
+
+ITJ9,Campionato nazionale Under 18 - B,75.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ9,,
+
+J18E,Prinz Takamado U18 Premier League Ost,77.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J18E,,
+
+J18W,Prinz Takamado U18 Premier League West,77.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J18W,,
+
+J6K2,Kanto Soccer League (Div.2),77.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J6K2,,
+
+J6T2,Tokai Soccer League (Div.2),77.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J6T2,,
+
+J6TN,Tohoku Soccer League (Div.2 Nord),77.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J6TN,,
+
+JAP1,J1 League,77.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JAP1,,"J1 League - First Stage ('93-'95,'97-'04,'15-'16)"
+
+JAP2,J2 League,77.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JAP2,,
+
+JAP3,J3 League,77.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JAP3,,
+
+JCSL,Chugoku Soccer League,77.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JCSL,,
+
+JFL,Japan Football League,77.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JFL,,
+
+JFL1,Japan Football League (1992-1998),77.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JFL1,JFL1,Japan Football League (1992-1998)
+
+JGD,ÖFB Jugendliga U19 (- 2010),127.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JGD,,
+
+JGD2,ÖFB Jugendliga U18,127.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JGD2,,
+
+JGD3,ÖFB Jugendliga U16,127.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JGD3,,
+
+JL11,"J1 League - First Stage ('93-'95,'97-'04,'15-'16)",77.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JL11,JAP1,
+
+JO1L,Jordanian Pro League,78.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JO1L,,
+
+JPKA,Kansai Soccer League (Div.1),77.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JPKA,,
+
+JPKS,Kyushu Soccer League,77.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JPKS,,
+
+JPL1,Jamaica Premier League,76.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JPL1,,
+
+JUNO,U19 Allsvenskan Norra,147.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JUNO,,
+
+JUSÖ,U19 Allsvenskan Södra,147.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JUSÖ,,
+
+K3L,K3 League,87.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/K3L,,Korea National League (2011-2019); Korea National League - Second Stage (2003-2010)
+
+K4L,K4 League,87.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/K4L,,
+
+KAS1,Premier Liga,81.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KAS1,,
+
+KAS2,Pervaya Liga,81.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KAS2,,
+
+KG1L,Jogorku Liga,90.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KG1L,,
+
+KHM1,Cambodian Premier League,79.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KHM1,,
+
+KLS2,"K League - Second Stage ('84,'86,'95,'96,'04-'06)",87.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KLS2,RSK1,
+
+KNL2,Korea National League - Second Stage (2003-2010),87.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KNL2,K3L,
+
+KO1,Superliga e Kosovës,244.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KO1,,
+
+KOG1,Kolmonen Etelä Gruppe A,49.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KOG1,,
+
+KOG2,Kolmonen Etelä Gruppe B,49.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KOG2,,
+
+KOG3,Kolmonen Etelä Gruppe C,49.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KOG3,,
+
+KR1,SuperSport HNL,37.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KR1,,
+
+KR2,Prva Nogometna Liga,37.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KR2,,
+
+KTOS,Kanto Soccer League (Div.1),77.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KTOS,,
+
+L1,Bundesliga,40.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/L1,,
+
+L2,2. Bundesliga,40.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/L2,,
+
+L3,3. Liga,40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/L3,,NOFV-Oberliga Mitte (91/92 - 93/94); NOFV-Oberliga Süd (91/92 - 93/94); Oberliga Baden-Württemberg (- 93/94); Oberliga Nord (- 93/94); Oberliga Nordrhein (- 93/94); Oberliga Südwest (78/79 - 93/94); Regionalliga Nord (94/95 - 07/08); Regionalliga Nord/Ost (94/95 - 99/00); Regionalliga Süd (94/95 - 07/08); Regionalliga West-Südwest (94/95 - 99/00)
+
+LAO1,Lao League 1,91.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LAO1,,
+
+LBMI,Landesliga Bayern Mitte,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBMI,,
+
+LBNO,Landesliga Bayern Nordost,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBNO,,
+
+LBNW,Landesliga Bayern Nordwest,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBNW,,
+
+LBSO,Landesliga Bayern Südost,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBSO,,
+
+LBSW,Landesliga Bayern Südwest,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBSW,,
+
+LET1,Virsliga,92.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LET1,,
+
+LET2,Nakotnes Liga,92.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LET2,,
+
+LH21,Landesliga Hamburg (- 2022),40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LH21,,
+
+LI1,A Lyga,98.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LI1,,
+
+LIB1,Lebanese Premier League,94.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LIB1,,
+
+LIM,A Lyga - Meisterrunde,98.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LIM,,
+
+LLHA,Landesliga Hansa,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHA,,
+
+LLHB,Landesliga Bremen,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHB,,
+
+LLHM,Landesliga Hammonia,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHM,,
+
+LLHO,Landesliga Holstein,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHO,,
+
+LLL,Landesliga Lüneburg,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLL,,
+
+LLM1,Landesliga Mittelrhein Staffel 1,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLM1,,
+
+LLM2,Landesliga Mittelrhein Staffel 2,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLM2,,
+
+LLSA,Schröder-Liga Saar,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLSA,,
+
+LLSL,Landesliga Schleswig,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLSL,,
+
+LNBR,Landesliga Braunschweig,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNBR,,
+
+LNHA,Landesliga Hannover,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNHA,,
+
+LNR1,Landesliga Niederrhein - Gruppe 1,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNR1,,
+
+LNR2,Landesliga Niederrhein - Gruppe 2,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNR2,,
+
+LNR3,Landesliga Niederrhein - Gruppe 3 (- 2023),40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNR3,,
+
+LNWE,Landesliga Weser-Ems,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNWE,,
+
+LPL,Libyan Premier League,96.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LPL,,
+
+LSHM,Landesliga Schleswig-Holstein Mitte (- 2023),40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LSHM,,
+
+LT1U,A Lyga Übergangsrunde,98.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LT1U,,
+
+LUX1,BGL Ligue,99.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LUX1,,
+
+LUX2,Ehrenpromotion,99.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LUX2,,
+
+LWEE,Landesliga Weser-Ems - Endrunde,40.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LWEE,,
+
+M191,Liga MX U19 Apertura,110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M191,,
+
+M192,Liga MX U19 Clausura,110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M192,,
+
+M20A,Liga MX U20 Apertura (- 22/23),110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M20A,,Liga MX U20 (09/10)
+
+M20C,Liga MX U20 Clausura (- 22/23),110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M20C,,
+
+M20H,Liga MX U20 (09/10),110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M20H,M20A,
+
+M21A,Liga MX U21 Apertura,110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M21A,,
+
+M23C,Liga MX U23 Clausura (23/24 - 24/25),110.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M23C,,
+
+MAL1,Premier League (-2024),106.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAL1," """"MT1P""""",
+
+MAL2,Challenge League,106.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAL2,MT2P,
+
+MAL3,National Amateur League I,106.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAL3,,
+
+MAR1,Botola Pro Inwi,107.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAR1,,
+
+MAZ1,Prva Makedonska Fudbalska Liga,100.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAZ1,,
+
+MEX1,Liga MX Clausura,110.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEX1,,
+
+MEX2,Liga de Expansión MX Clausura,110.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEX2,,
+
+MEXA,Liga MX Apertura,110.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEXA,,
+
+MEXB,Liga de Expansión MX Apertura,110.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEXB,,
+
+ML1P,Liga 1 (Aufstieg),112.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ML1P,,
+
+MLS1,Major League Soccer,184.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MLS1,,
+
+MLSR,MLS Reserve League,184.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MLSR,,
+
+MNE1,Meridianbet 1. CFL,216.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MNE1,,
+
+MNE2,2. CFL,216.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MNE2,,
+
+MNP3,MLS Next Pro,184.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MNP3,,
+
+MO1N,Super Liga,112.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MO1N,,Divizia Nationala (-2017)
+
+MOL1,Divizia Nationala (-2017),112.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MOL1,MO1N,
+
+MOP2,Super Liga (Phase 2),112.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MOP2,,
+
+MT1N,Premier League Opening Round,106.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MT1N,,
+
+MT1P,Premier League Closing Round,106.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MT1P,,
+
+MT2P,Challenge League - Endrunde,106.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MT2P,,Challenge League
+
+MYA1,Myanmar National League,116.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MYA1,,
+
+MYS1,Malaysia Super League,103.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MYS1,,
+
+NAFC,NASL Fall Championship (2013 - 2017),184.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NAFC,USL,
+
+NC1A,Liga Primera de Nicaragua Apertura,121.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NC1A,,
+
+NC1C,Liga Primera de Nicaragua Clausura,121.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NC1C,,
+
+NCL1,National League - Central,120.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NCL1,,
+
+NIFS,NISA Fall Season (- 2021),184.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIFS,NIS3,
+
+NIR1,Premiership,192.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIR1,,
+
+NIR2,Championship,192.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIR2,,
+
+NIR3,Intermediate League,192.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIR3,,
+
+NIS3,NISA,184.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIS3,NIS3,NISA; NISA Fall Season (- 2021)
+
+NISR,NISA Spring Season (- 2021),184.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NISR,,
+
+NL1,Eredivisie,122.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NL1,,
+
+NL2,Keuken Kampioen Divisie,122.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NL2,,
+
+NLAE,U19 Divisie 2 Frühling,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLAE,,
+
+NLAJ,U19 Divisie 1 Frühling,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLAJ,,
+
+NLBA,Beloften Entscheidungsrunde,122.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBA,,
+
+NLBB,Beloften Eerste Divisie,122.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBB,,
+
+NLBE,Beloften Eredivisie,122.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBE,,
+
+NLBJ,U17 Divisie 1 Frühling,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBJ,,
+
+NLBV,Beloften Vorrunde,122.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBV,,
+
+NLEV,U19 Division 2 Fall,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLEV,,
+
+NLJV,U19 Division 1 Herbst,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLJV,,
+
+NLN6,National League North,189.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLN6,,
+
+NLS6,National League South,189.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLS6,,
+
+NLVB,U17 Divisie 1 Herbst,122.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLVB,,
+
+NNL1,National League - North,120.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NNL1,,
+
+NO1,Eliteserien,125.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO1,,
+
+NO2,OBOS-ligaen,125.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO2,,
+
+NO31,PostNord-ligaen Avd. 1,125.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO31,,
+
+NO32,PostNord-ligaen Avd. 2,125.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO32,,
+
+NO41,Norsk Tipping-Ligaen avdeling 1,125.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO41,,
+
+NO42,Norsk Tipping-Ligaen avdeling 2,125.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO42,,
+
+NO43,Norsk Tipping-Ligaen avdeling 3,125.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO43,,
+
+NO44,Norsk Tipping-Ligaen avdeling 4,125.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO44,,
+
+NO45,Norsk Tipping-Ligaen avdeling 5,125.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO45,,
+
+NO46,Norsk Tipping-Ligaen avdeling 6,125.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO46,,
+
+NO93,Oberliga Nord (- 93/94),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO93,L3,
+
+NPFL,Nigeria Professional Football League,124.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NPFL,,
+
+NPL1,Nepal Super League,119.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NPL1,,
+
+NSL1,National League - South,120.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NSL1,,
+
+NTD,Tweede Divisie,122.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NTD,,
+
+NZL1,New Zealand Premiership (- 2021),120.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NZL1,,
+
+OBLA,Bayernliga (- 11/12),40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLA,,
+
+OBLB,Oberliga Baden-Württemberg,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLB,,
+
+OBLC,Hessenliga,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLC,,
+
+OBLD,Oberliga Südwest (08/09 - 11/12),40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLD,,
+
+OBLE,NRW-Liga (- 11/12),40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLE,,
+
+OBLF,NOFV-Oberliga Nord,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLF,,
+
+OBLG,NOFV-Oberliga Süd,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLG,,
+
+OBLH,Oberliga Niedersachsen-West (- 09/10),40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLH,,
+
+OBLI,Oberliga Niedersachsen-Ost (- 09/10),40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLI,,
+
+OBLJ,Oberliga Hamburg,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLJ,,
+
+OBLK,Bremenliga,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLK,,
+
+OBLL,Oberliga Schleswig-Holstein,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLL,,
+
+OBLN,Oberliga Niedersachsen,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLN,,
+
+OBSM,NOFV-Oberliga Mitte (91/92 - 93/94),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBSM,L3,
+
+OBSS,NOFV-Oberliga Süd (91/92 - 93/94),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBSS,L3,
+
+OBW3,Oberliga Baden-Württemberg (- 93/94),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBW3,L3,
+
+OL0,Oberliga Bayern (94/95- 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL0,RLB3,
+
+OL1,Oberliga Hamburg / S-H (- 03/04),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL1,RL1,
+
+OL2,Oberliga Niedersachsen/Bremen (- 03/04),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL2,RLN3,
+
+OL3,NOFV-Oberliga Nord (- 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL3,RLN4,
+
+OL4,NOFV-Oberliga Süd (- 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL4,RLN4,
+
+OL5,Oberliga Nordrhein (94/95 - 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL5,RLW3,
+
+OL6,Oberliga Westfalen (94/95 - 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL6," ""RLW3""",
+
+OL7,Oberliga Hessen (- 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL7,RLN3,
+
+OL8,Oberliga Südwest (94/95 - 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL8,RLSW,
+
+OL9,Oberliga Baden-Württemberg (94/95- 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL9,RL2,
+
+OLA,Oberliga Nord (- 07/08),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLA,RLN3,
+
+OLB1,Bayernliga Nord,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLB1,,
+
+OLB2,Bayernliga Süd,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLB2,,
+
+OLMR,Mittelrheinliga,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLMR,,
+
+OLNA,Oberliga Nordrhein (- 93/94),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLNA,L3,
+
+OLNI,Oberliga Niederrhein,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLNI,,
+
+OLRP,Oberliga Rheinland-Pfalz/Saar,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLRP,,
+
+OLW3,Oberliga Westfalen,40.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLW3,,
+
+OM1L,Oman Jindal League,126.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OM1L,,
+
+ORPE,Oberliga Rheinland-Pfalz/Saar - Endrunde,40.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ORPE,,
+
+P232,Liga Revelação - Zweite Runde,136.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/P232,,
+
+PAR2,División Intermedia,132.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PAR2,,
+
+PDV1,Primera División Clausura,36.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PDV1,,Primera División Clausura 2. Phase (- 17/18)
+
+PEDI,Liga 1 Liguilla B,133.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PEDI,TDeA,
+
+PEDP,Liga 1 Liguilla A,133.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PEDP,TDeA,
+
+PER2,Liga 2,133.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PER2,,
+
+PERC,Torneo Descentralizado (2007 - 2013),133.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PERC,TDeA,
+
+PERS,Torneo Descentralizado Segunda Fase,133.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PERS,TDeA,
+
+PFL1,Philippines Football League,134.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PFL1,,United Football League (-2016)
+
+PHI1,United Football League (-2016),134.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PHI1,PFL1,
+
+PL1,PKO BP Ekstraklasa,135.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL1,,
+
+PL2,Betclic 1 Liga,135.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL2,,
+
+PL2L,Betclic 2 Liga,135.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL2L,,
+
+PL31,Betclic 3 Liga - Gruppe I,135.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL31,,
+
+PL32,Betclic 3 Liga - Gruppe II,135.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL32,,
+
+PL33,Betclic 3 Liga - Gruppe III,135.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL33,,
+
+PL34,Betclic 3 Liga - Gruppe IV,135.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL34,,
+
+PL3W,2 Liga - Ost,135.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL3W,,
+
+PL3Z,2 Liga - West,135.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL3Z,,
+
+PLI3,Liga 3,133.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLI3,,
+
+PLJF,Zentrale Jugendliga - Finalrunde,135.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLJF,,
+
+PLJW,Zentrale Jugendliga Ost (bis 17/18),135.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLJW,PLZJ,
+
+PLJZ,Zentrale Jugendliga West (bis 17/18),135.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLJZ,PLZJ,
+
+PLZJ,Zentrale Jugendliga,135.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLZJ,,Zentrale Jugendliga Ost (bis 17/18); Zentrale Jugendliga West (bis 17/18)
+
+PN1A,Liga Panameña de Fútbol Apertura,130.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PN1A,,
+
+PN1C,Liga Panameña de Fútbol Clausura,130.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PN1C,,
+
+PO1,Liga Portugal,136.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PO1,,
+
+PO2,Liga Portugal 2,136.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PO2,,
+
+POLL,Play-Off Liga Portugal 2,136.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/POLL,,
+
+PR1C,Primera División Clausura,132.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PR1C,,
+
+PRA1,Liga Puerto Rico Apertura,228.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PRA1,,
+
+PRC1,Liga Puerto Rico Clausura,228.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PRC1,,
+
+PT23,Liga Revelação U23,136.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PT23,,
+
+PT3A,Liga 3,136.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PT3A,,
+
+QSL,Qatar Stars League,137.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/QSL,,
+
+QU2L,Qatari Second Division,137.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/QU2L,,
+
+R3D1,2. Division A (Phase 1),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/R3D1,,
+
+R3D2,2. Division A (Phase 2),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/R3D2,,
+
+RHL,Rheinlandliga,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RHL,,
+
+RJL2,U19 M-Liga (seit 2024),141.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RJL2,,
+
+RJP1,U19 M-Liga Play-off,141.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RJP1,,
+
+RKNL,Korea National League (2011-2019),87.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RKNL,K3L,
+
+RL1,Regionalliga Nord (- 11/12),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RL1,RLN3,Oberliga Hamburg / S-H (- 03/04)
+
+RL2,Regionalliga Süd (- 11/12),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RL2,,Oberliga Baden-Württemberg (94/95- 07/08)
+
+RL3,Regionalliga West (- 11/12),40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RL3,RLW3,
+
+RLB3,Regionalliga Bayern,40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLB3,,Oberliga Bayern (94/95- 07/08)
+
+RLN3,Regionalliga Nord,40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLN3,,Oberliga Hessen (- 07/08); Oberliga Niedersachsen/Bremen (- 03/04); Oberliga Nord (- 07/08); Regionalliga Nord (- 11/12)
+
+RLN4,Regionalliga Nordost,40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLN4,,NOFV-Oberliga Nord (- 07/08); NOFV-Oberliga Süd (- 07/08)
+
+RLSA,Regionalliga Salzburg Abstiegsrunde (- 2023),127.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLSA,,
+
+RLSW,Regionalliga Südwest,40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLSW,,Oberliga Südwest (94/95 - 07/08)
+
+RLW3,Regionalliga West,40.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLW3,,Oberliga Nordrhein (94/95 - 07/08); Regionalliga West (- 11/12)
+
+RN,Regionalliga Nord (94/95 - 07/08),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RN,L3,
+
+RNO,Regionalliga Nord/Ost (94/95 - 99/00),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RNO,L3,
+
+RO1,SuperLiga,140.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RO1,,
+
+RO2,Liga 2,140.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RO2,,
+
+RO2B,Liga II - Seria II,140.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RO2B,,
+
+RPLO,Russian PFL Ost (-2019),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLO,,
+
+RPLS,Zweite Liga Division B Gruppe 1 (-2023),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLS,,
+
+RPLU,2. Division B Gruppe 4 (-2023),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLU,,
+
+RPLW,Zweite Liga Division B Gruppe 2 (-2023),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLW,,
+
+RPLZ,Zweite Liga Division B Gruppe 3 (-2023),141.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLZ,,
+
+RS,Regionalliga Süd (94/95 - 07/08),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RS,L3,
+
+RSK1,K League 1,87.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RSK1,,"K League - Second Stage ('84,'86,'95,'96,'04-'06)"
+
+RSK2,K League 2,87.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RSK2,,
+
+RU1,Premier Liga,141.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RU1,,
+
+RU16,Russian U16 Youth Football League,141.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RU16,,
+
+RU17,Russian U17 Youth Football League,141.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RU17,,
+
+RU2,1.Division,141.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RU2,,
+
+RUJL,U19 M-Liga (- 2023),141.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RUJL,,
+
+RWS,Regionalliga West-Südwest (94/95 - 99/00),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RWS,L3,
+
+S21N,Folksam U21 Allsvenskan Norra,147.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/S21N,,
+
+S21S,Folksam U21 Allsvenskan Södra,147.0,Reserve,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/S21S,,
+
+SA1,Saudi Pro League,146.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SA1,,
+
+SA2L,Saudi First Division League,146.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SA2L,,
+
+SB17,Kadetska liga Srbije,215.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SB17,,
+
+SB19,Omladinska liga Srbije,215.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SB19,,
+
+SC1,Scottish Premiership,190.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC1,,
+
+SC2,Scottish Championship,190.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC2,,
+
+SC3,Scottish League One,190.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC3,,
+
+SC4,Scottish League Two,190.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC4,,
+
+SC4A,Scottish League Two Abstiegsrunde,190.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC4A,,
+
+SC4M,Scottish League Two Meisterrunde,190.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC4M,,
+
+SC5H,Scottish Highland Football League,190.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC5H,,
+
+SC5L,Scottish Lowland Football League,190.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC5L,,
+
+SE1,Allsvenskan,147.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SE1,,
+
+SE2,Superettan,147.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SE2,,
+
+SE3N,Ettan Norra,147.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SE3N,,
+
+SE3S,Ettan Södra,147.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SE3S,,
+
+SEN1,Ligue 1,149.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SEN1,,
+
+SER1,Super Liga Srbije,215.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SER1,,
+
+SER2,Prva liga Srbije,215.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SER2,,
+
+SFA1,Betway Premiership,159.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SFA1,,
+
+SIN1,Singapore Premier League,153.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SIN1,,
+
+SK19,I. Liga starsieho dorastu,154.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SK19,,
+
+SK2,MONACObet liga,154.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SK2,,
+
+SK2P,II. Liga Promotion,154.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SK2P,,
+
+SL1,Prva Liga,155.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL1,,
+
+SL19,NextGen Liga,155.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL19,,
+
+SL1A,Primera División Apertura,45.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL1A,,
+
+SL1C,Primera División Clausura,45.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL1C,,
+
+SL2,Druga Liga,155.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL2,,
+
+SL2P,Scottish League Two Playoffs,190.0,PlayoffRelegation,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL2P,,
+
+SLI,Sachsenliga,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SLI,,
+
+SLO1,Niké Liga,154.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SLO1,,
+
+SMR1,Campionato Sammarinese,144.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SMR1,,
+
+SU1L,Vyschaya Liga (- 1991),221.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SU1L,,
+
+SU2L,Pervaya Liga (-1991),221.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SU2L,,
+
+SW93,Oberliga Südwest (78/79 - 93/94),40.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SW93,L3,
+
+T191,U19 Süper Lig,174.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/T191,,
+
+T211,U21 Süper Lig,174.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/T211,,
+
+TAD1,Vysshaya Liga,165.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TAD1,,
+
+TDeA,Liga 1 Apertura,133.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TDeA,,Liga 1 Liguilla A; Liga 1 Liguilla B; Torneo Descentralizado (2007 - 2013); Torneo Descentralizado Segunda Fase
+
+TDeC,Liga 1 Clausura,133.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TDeC,,
+
+TFL2,Taiwan Football League Div.2,164.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TFL2,,
+
+TFPL,Taiwan Football Premier League,164.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TFPL,,
+
+THA1,Thai League,167.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/THA1,,
+
+THA2,Thai League 2,167.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/THA2,,
+
+THLI,Thüringenliga,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/THLI,,
+
+TOHL,Tohoku Soccer League (Div.1),77.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TOHL,,
+
+TOSL,Tokai Soccer League (Div.1),77.0,5,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TOSL,,
+
+TR1,Süper Lig,174.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR1,,
+
+TR2,1.Lig,174.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR2,,
+
+TR3A,2.Lig Beyaz,174.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR3A,,
+
+TR3B,2.Lig Kirmizi,174.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR3B,,
+
+TR4A,3.Lig Grup 1,174.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4A,,
+
+TR4B,3.Lig Grup 2,174.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4B,,
+
+TR4C,3.Lig Grup 3,174.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4C,,
+
+TR4D,3.Lig Grup 4,174.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4D,,
+
+TS1,Chance Liga,172.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TS1,,
+
+TS2,Chance Narodni Liga,172.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TS2,,
+
+TUN1,Ligue 1,173.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TUN1,,
+
+UA19,U19 Premier Liga,177.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UA19,,
+
+UA3L,Druga Liga,177.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UA3L,,
+
+UAE1,UAE Pro League,183.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UAE1,,
+
+UD2L,USSF Division 2 Professional League (2010),184.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UD2L,USL,
+
+UG2W,Ness Hungary NB II - West,178.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UG2W,,
+
+UGL1,Uganda Premier League,176.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UGL1,,
+
+UKR1,Premier Liga,177.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UKR1,,
+
+UKR2,Persha Liga,177.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UKR2,,
+
+UN2,Nemzeti Bajnokság II.,178.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UN2,,
+
+UNG1,Nemzeti Bajnokság,178.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UNG1,,
+
+UNG2,Ness Hungary NB II - Ost,178.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UNG2,,
+
+URPL,Liguilla Pre-Libertadores,179.0,Cup,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URPL,,
+
+URU1,Liga AUF Apertura,179.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URU1,,
+
+URU2,Segunda División - Fase Regular,179.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URU2,,
+
+URUC,Liga AUF Clausura,179.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URUC,,
+
+URUE,Campeonato Uruguayo Especial,179.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URUE,,
+
+USA2,North American Soccer League (2011 - 2012),184.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USA2,USL,
+
+USC3,USL League One,184.0,3,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USC3,,
+
+USFD,USL First Division (2005 - 2009),184.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USFD,USL,
+
+USL,USL Championship,184.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USL,,NASL Fall Championship (2013 - 2017); North American Soccer League (2011 - 2012); USL First Division (2005 - 2009); USSF Division 2 Professional League (2010)
+
+UZ1,O'zbekiston Superligasi,180.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UZ1,,
+
+UZ2L,Uzbekistan Pro Liga,180.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UZ2L,,
+
+VFVA,2de Nationale VV A,19.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VFVA,,
+
+VFVB,2de Nationale VV B,19.0,4,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VFVB,,
+
+VIE1,V.League 1,185.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VIE1,,
+
+VLBA,Verbandsliga Baden,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLBA,,
+
+VLBE,Berlin-Liga,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLBE,,
+
+VLBW,Verbandsliga Württemberg,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLBW,,
+
+VLHM,Verbandsliga Hessen-Mitte,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLHM,,
+
+VLHN,Verbandsliga Hessen-Nord,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLHN,,
+
+VLHS,Verbandsliga Hessen-Süd,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLHS,,
+
+VLMV,Verbandsliga Mecklenburg-Vorpommern,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLMV,,
+
+VLSA,Verbandsliga Sachsen-Anhalt,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLSA,,
+
+VLSB,Verbandsliga Südbaden,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLSB,,
+
+VLSW,Verbandsliga Südwest,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLSW,,
+
+VLW1,Westfalenliga 1,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLW1,,
+
+VLW2,Westfalenliga 2,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLW2,,
+
+VN2A,Liga FUTVE 2,182.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VN2A,,
+
+VN2C,Liga FUTVE 2. Segunda Fase,182.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VN2C,,
+
+VSHO,Verbandsliga Schleswig-Holstein - Süd-Ost,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VSHO,,
+
+VSNO,Verbandsliga Schleswig-Holstein - Nord-Ost,40.0,6,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VSNO,,
+
+VZ1A,Liga FUTVE Apertura,182.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VZ1A,,
+
+VZ1C,Liga FUTVE Clausura,182.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VZ1C,,
+
+VZ1L,Liga FUTVE,182.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VZ1L,,
+
+WA2S,Cymru South,191.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WA2S,,
+
+WAL1,Cymru Premier,191.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WAL1,,
+
+WAL2,Cymru North,191.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WAL2,,
+
+WER1,Vysheyshaya Liga,18.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WER1,,
+
+WER2,Pershaya Liga,18.0,2,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WER2,,
+
+Y047,YFL U17 (2024),141.0,Youth,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/Y047,,
+
+ZYP1,Cyprus League,188.0,1,https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ZYP1,,
+

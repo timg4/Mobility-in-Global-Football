@@ -1,0 +1,634 @@
+"group_key";"competition_id";"league_name";"league_name_norm";"historical_flag";"country_id";"tier";"source_url"; "canonical_competition_id"
+"106.0|1";"GZO1";"Gozo Football League First Division";"gozo football league first division";"False";"106";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GZO1"
+
+"106.0|1";"MAL1";"Premier League (-2024)";"premier league";"True";"106";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAL1"; ""MT1P""
+"106.0|1";"MT1P";"Premier League Closing Round";"premier league closing round";"False";"106";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MT1P"
+"106.0|1";"MT1N";"Premier League Opening Round";"premier league opening round";"False";"106";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MT1N"
+
+"106.0|2";"MAL2";"Challenge League";"challenge league";"False";"106";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MAL2";
+"106.0|2";"MT2P";"Challenge League - Endrunde";"challenge league endrunde";"False";"106";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MT2P"
+
+"110.0|1";"MEXA";"Liga MX Apertura";"liga mx apertura";"True";"110";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEXA"
+"110.0|1";"MEX1";"Liga MX Clausura";"liga mx clausura";"True";"110";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEX1"
+
+"110.0|2";"MEXB";"Liga de Expansión MX Apertura";"liga de expansi n mx apertura";"True";"110";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEXB"
+"110.0|2";"MEX2";"Liga de Expansión MX Clausura";"liga de expansi n mx clausura";"True";"110";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MEX2"
+
+"110.0|Youth";"M191";"Liga MX U19 Apertura";"liga mx u19 apertura";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M191"
+"110.0|Youth";"M192";"Liga MX U19 Clausura";"liga mx u19 clausura";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M192"
+"110.0|Youth";"M20H";"Liga MX U20 (09/10)";"liga mx u20";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M20H";"M20A"
+"110.0|Youth";"M20A";"Liga MX U20 Apertura (- 22/23)";"liga mx u20 apertura";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M20A"
+"110.0|Youth";"M20C";"Liga MX U20 Clausura (- 22/23)";"liga mx u20 clausura";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M20C"
+"110.0|Youth";"M21A";"Liga MX U21 Apertura";"liga mx u21 apertura";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M21A"
+"110.0|Youth";"M23C";"Liga MX U23 Clausura (23/24 - 24/25)";"liga mx u23 clausura";"True";"110";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/M23C"
+
+"112.0|1";"MOL1";"Divizia Nationala (-2017)";"divizia nationala";"True";"112";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MOL1";"MO1N"
+"112.0|1";"MO1N";"Super Liga";"super liga";"False";"112";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MO1N"
+"112.0|1";"MOP2";"Super Liga (Phase 2)";"super liga";"False";"112";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MOP2"
+
+"12.0|2";"A2SW";"National Premier League - New South Wales";"national premier league new south wales";"False";"12";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A2SW"
+"12.0|2";"A2VI";"National Premier League - Victoria";"national premier league victoria";"False";"12";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A2VI"
+
+"120.0|1";"NCL1";"National League - Central";"national league central";"False";"120";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NCL1"
+"120.0|1";"NNL1";"National League - North";"national league north";"False";"120";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NNL1"
+"120.0|1";"NSL1";"National League - South";"national league south";"False";"120";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NSL1"
+"120.0|1";"NZL1";"New Zealand Premiership (- 2021)";"new zealand premiership";"True";"120";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NZL1"
+
+"121.0|1";"NC1A";"Liga Primera de Nicaragua Apertura";"liga primera de nicaragua apertura";"True";"121";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NC1A"
+"121.0|1";"NC1C";"Liga Primera de Nicaragua Clausura";"liga primera de nicaragua clausura";"True";"121";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NC1C"
+
+"122.0|4";"510";"Derde Divisie A";"derde divisie a";"False";"122";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/510"
+"122.0|4";"511";"Derde Divisie B";"derde divisie b";"False";"122";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/511"
+
+"122.0|5";"HBZA";"Vierde Divisie B Samstag";"vierde divisie b samstag";"False";"122";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HBZA"
+"122.0|5";"HBZO";"Vierde Divisie B Sonntag";"vierde divisie b sonntag";"False";"122";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HBZO"
+
+"122.0|Reserve";"NLBB";"Beloften Eerste Divisie";"beloften eerste divisie";"False";"122";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBB"
+"122.0|Reserve";"NLBE";"Beloften Eredivisie";"beloften eredivisie";"False";"122";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBE"
+"122.0|Reserve";"NLBV";"Beloften Vorrunde";"beloften vorrunde";"False";"122";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBV"
+
+"122.0|Youth";"NLBJ";"U17 Divisie 1 Frühling";"u17 divisie 1 fr hling";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLBJ"
+"122.0|Youth";"NLVB";"U17 Divisie 1 Herbst";"u17 divisie 1 herbst";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLVB"
+"122.0|Youth";"181S";"U18 Divisie 1 Frühling";"u18 divisie 1 fr hling";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/181S"
+"122.0|Youth";"181F";"U18 Divisie 1 Herbst";"u18 divisie 1 herbst";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/181F"
+"122.0|Youth";"182S";"U18 Divisie 2 Frühling";"u18 divisie 2 fr hling";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/182S"
+"122.0|Youth";"182F";"U18 Divisie 2 Herbst";"u18 divisie 2 herbst";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/182F"
+"122.0|Youth";"NLAJ";"U19 Divisie 1 Frühling";"u19 divisie 1 fr hling";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLAJ"
+"122.0|Youth";"NLAE";"U19 Divisie 2 Frühling";"u19 divisie 2 fr hling";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLAE"
+"122.0|Youth";"NLJV";"U19 Division 1 Herbst";"u19 division 1 herbst";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLJV"
+"122.0|Youth";"NLEV";"U19 Division 2 Fall";"u19 division 2 fall";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLEV"
+"122.0|Youth";"211F";"U21 Divisie 1 Herbst";"u21 divisie 1 herbst";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/211F"
+"122.0|Youth";"212S";"U21 Divisie 2 Frühling";"u21 divisie 2 fr hling";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/212S"
+"122.0|Youth";"212F";"U21 Divisie 2 Herbst";"u21 divisie 2 herbst";"False";"122";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/212F"
+
+"125.0|3";"NO31";"PostNord-ligaen Avd. 1";"postnord ligaen avd 1";"False";"125";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO31"
+"125.0|3";"NO32";"PostNord-ligaen Avd. 2";"postnord ligaen avd 2";"False";"125";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO32"
+
+"125.0|4";"NO41";"Norsk Tipping-Ligaen avdeling 1";"norsk tipping ligaen avdeling 1";"False";"125";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO41"
+"125.0|4";"NO42";"Norsk Tipping-Ligaen avdeling 2";"norsk tipping ligaen avdeling 2";"False";"125";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO42"
+"125.0|4";"NO43";"Norsk Tipping-Ligaen avdeling 3";"norsk tipping ligaen avdeling 3";"False";"125";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO43"
+"125.0|4";"NO44";"Norsk Tipping-Ligaen avdeling 4";"norsk tipping ligaen avdeling 4";"False";"125";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO44"
+"125.0|4";"NO45";"Norsk Tipping-Ligaen avdeling 5";"norsk tipping ligaen avdeling 5";"False";"125";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO45"
+"125.0|4";"NO46";"Norsk Tipping-Ligaen avdeling 6";"norsk tipping ligaen avdeling 6";"False";"125";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO46"
+
+"127.0|3";"ELVA";"Eliteliga Vorarlberg (- 2023)";"eliteliga vorarlberg";"True";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELVA"
+"127.0|3";"EVAA";"Eliteliga Vorarlberg Abstiegsrunde (- 2023)";"eliteliga vorarlberg abstiegsrunde";"True";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EVAA"
+"127.0|3";"ATRM";"Regionalliga Mitte";"regionalliga mitte";"False";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ATRM"
+"127.0|3";"ATRO";"Regionalliga Ost";"regionalliga ost";"False";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ATRO"
+"127.0|3";"ELSA";"Regionalliga Salzburg (- 2023)";"regionalliga salzburg";"True";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELSA"
+"127.0|3";"RLSA";"Regionalliga Salzburg Abstiegsrunde (- 2023)";"regionalliga salzburg abstiegsrunde";"True";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLSA"
+"127.0|3";"ELTI";"Regionalliga Tirol (- 2023)";"regionalliga tirol";"True";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELTI"
+"127.0|3";"ELTA";"Regionalliga Tirol Abstiegsrunde (- 2023)";"regionalliga tirol abstiegsrunde";"True";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ELTA"
+"127.0|3";"ATRW";"Regionalliga West";"regionalliga west";"False";"127";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ATRW"
+
+"127.0|4";"A4N";"1. Landesliga Niederösterreich";"1 landesliga nieder sterreich";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4N"
+"127.0|4";"A4B";"Burgenlandliga";"burgenlandliga";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4B"
+"127.0|4";"A4V";"Eliteliga Vorarlberg";"eliteliga vorarlberg";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4V"
+"127.0|4";"A4K";"Kärntner Liga";"k rntner liga";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4K"
+"127.0|4";"A4ST";"Landesliga Steiermark";"landesliga steiermark";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4ST"
+"127.0|4";"A4O";"Oberösterreich Liga";"ober sterreich liga";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4O"
+"127.0|4";"A4T";"Regionalliga Tirol";"regionalliga tirol";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4T"
+"127.0|4";"A4S";"Salzburger Liga";"salzburger liga";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4S"
+"127.0|4";"A4W";"Wiener Stadtliga";"wiener stadtliga";"False";"127";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/A4W"
+
+"127.0|Youth";"JGD3";"ÖFB Jugendliga U16";"fb jugendliga u16";"False";"127";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JGD3"
+"127.0|Youth";"AJ17";"ÖFB Jugendliga U17 (- 2010)";"fb jugendliga u17";"True";"127";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ17"
+"127.0|Youth";"JGD2";"ÖFB Jugendliga U18";"fb jugendliga u18";"False";"127";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JGD2"
+"127.0|Youth";"JGD";"ÖFB Jugendliga U19 (- 2010)";"fb jugendliga u19";"True";"127";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JGD"
+
+"130.0|1";"PN1A";"Liga Panameña de Fútbol Apertura";"liga paname a de f tbol apertura";"True";"130";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PN1A"
+"130.0|1";"PN1C";"Liga Panameña de Fútbol Clausura";"liga paname a de f tbol clausura";"True";"130";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PN1C"
+
+
+"133.0|1";"PERC";"Torneo Descentralizado (2007 - 2013)";"torneo descentralizado";"True";"133";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PERC";"TDeA"
+"133.0|1";"PERS";"Torneo Descentralizado Segunda Fase";"torneo descentralizado segunda fase";"False";"133";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PERS";"TDeA"
+"133.0|1";"TDeA";"Liga 1 Apertura";"liga 1 apertura";"True";"133";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TDeA"
+"133.0|1";"TDeC";"Liga 1 Clausura";"liga 1 clausura";"True";"133";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TDeC";
+"133.0|1";"PEDP";"Liga 1 Liguilla A";"liga 1 liguilla a";"False";"133";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PEDP";"TDeA"
+"133.0|1";"PEDI";"Liga 1 Liguilla B";"liga 1 liguilla b";"False";"133";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PEDI";"TDeA"
+
+
+"134.0|1";"PFL1";"Philippines Football League";"philippines football league";"False";"134";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PFL1"
+"134.0|1";"PHI1";"United Football League (-2016)";"united football league";"True";"134";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PHI1";"PFL1"
+
+"135.0|3";"PL3W";"2 Liga - Ost";"2 liga ost";"False";"135";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL3W"
+"135.0|3";"PL3Z";"2 Liga - West";"2 liga west";"False";"135";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL3Z"
+"135.0|3";"PL2L";"Betclic 2 Liga";"betclic 2 liga";"False";"135";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL2L"
+
+"135.0|4";"PL31";"Betclic 3 Liga - Gruppe I";"betclic 3 liga gruppe i";"False";"135";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL31"
+"135.0|4";"PL32";"Betclic 3 Liga - Gruppe II";"betclic 3 liga gruppe ii";"False";"135";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL32"
+"135.0|4";"PL33";"Betclic 3 Liga - Gruppe III";"betclic 3 liga gruppe iii";"False";"135";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL33"
+"135.0|4";"PL34";"Betclic 3 Liga - Gruppe IV";"betclic 3 liga gruppe iv";"False";"135";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PL34"
+
+"135.0|Youth";"PLZJ";"Zentrale Jugendliga";"zentrale jugendliga";"False";"135";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLZJ"
+"135.0|Youth";"PLJW";"Zentrale Jugendliga Ost (bis 17/18)";"zentrale jugendliga ost";"True";"135";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLJW";"PLZJ"
+"135.0|Youth";"PLJZ";"Zentrale Jugendliga West (bis 17/18)";"zentrale jugendliga west";"True";"135";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PLJZ";"PLZJ"
+
+"136.0|4";"CPSA";"Campeonato de Portugal - Série A";"campeonato de portugal s rie a";"False";"136";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSA"
+"136.0|4";"CPSB";"Campeonato de Portugal - Série B";"campeonato de portugal s rie b";"False";"136";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSB"
+"136.0|4";"CPSC";"Campeonato de Portugal - Série C";"campeonato de portugal s rie c";"False";"136";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSC"
+"136.0|4";"CPSD";"Campeonato de Portugal - Série D";"campeonato de portugal s rie d";"False";"136";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CPSD"
+
+"136.0|PlayoffRelegation";"3PTP";"Liga 3 - Finale";"liga 3 finale";"False";"136";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/3PTP"
+"136.0|PlayoffRelegation";"POLL";"Play-Off Liga Portugal 2";"play off liga portugal 2";"False";"136";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/POLL"
+
+"136.0|Youth";"PT23";"Liga Revelação U23";"liga revela o u23";"False";"136";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PT23"
+"136.0|Youth";"P232";"Liga Revelação - Zweite Runde";"liga revela o zweite runde";"False";"136";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/P232"
+
+"140.0|2";"RO2";"Liga 2";"liga 2";"False";"140";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RO2"
+"140.0|2";"RO2B";"Liga II - Seria II";"liga ii seria ii";"False";"140";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RO2B"
+
+"141.0|3";"R3D1";"2. Division A (Phase 1)";"2 division a";"False";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/R3D1"
+"141.0|3";"R3D2";"2. Division A (Phase 2)";"2 division a";"False";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/R3D2"
+"141.0|3";"RPLU";"2. Division B Gruppe 4 (-2023)";"2 division b gruppe 4";"True";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLU"
+"141.0|3";"RPLO";"Russian PFL Ost (-2019)";"russian pfl ost";"True";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLO"
+"141.0|3";"RPLS";"Zweite Liga Division B Gruppe 1 (-2023)";"zweite liga division b gruppe 1";"True";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLS"
+"141.0|3";"RPLW";"Zweite Liga Division B Gruppe 2 (-2023)";"zweite liga division b gruppe 2";"True";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLW"
+"141.0|3";"RPLZ";"Zweite Liga Division B Gruppe 3 (-2023)";"zweite liga division b gruppe 3";"True";"141";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RPLZ"
+
+"141.0|Youth";"RU16";"Russian U16 Youth Football League";"russian u16 youth football league";"False";"141";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RU16"
+"141.0|Youth";"RU17";"Russian U17 Youth Football League";"russian u17 youth football league";"False";"141";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RU17"
+"141.0|Youth";"RUJL";"U19 M-Liga (- 2023)";"u19 m liga";"True";"141";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RUJL"
+"141.0|Youth";"RJL2";"U19 M-Liga (seit 2024)";"u19 m liga";"True";"141";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RJL2"
+"141.0|Youth";"Y047";"YFL U17 (2024)";"yfl u17";"True";"141";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/Y047"
+
+"144.0|1";"SMR1";"Campionato Sammarinese";"campionato sammarinese";"False";"144";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SMR1"
+"144.0|1";"CSSF";"Campionato Sammarinese Seconda Fase";"campionato sammarinese seconda fase";"False";"144";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CSSF"
+
+"147.0|3";"SE3N";"Ettan Norra";"ettan norra";"False";"147";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SE3N"
+"147.0|3";"SE3S";"Ettan Södra";"ettan s dra";"False";"147";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SE3S"
+
+"147.0|Reserve";"S21N";"Folksam U21 Allsvenskan Norra";"folksam u21 allsvenskan norra";"False";"147";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/S21N"
+"147.0|Reserve";"S21S";"Folksam U21 Allsvenskan Södra";"folksam u21 allsvenskan s dra";"False";"147";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/S21S"
+
+"147.0|Youth";"JUNO";"U19 Allsvenskan Norra";"u19 allsvenskan norra";"False";"147";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JUNO"
+"147.0|Youth";"JUSÖ";"U19 Allsvenskan Södra";"u19 allsvenskan s dra";"False";"147";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JUSÖ"
+
+"148.0|3";"CR1";"1. Liga Gruppe 1 (bis 11/12)";"1 liga gruppe 1";"True";"148";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR1";"CHPR"
+"148.0|3";"CR2";"1. Liga Gruppe 2 (bis 11/12)";"1 liga gruppe 2";"True";"148";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR2";"CHPR"
+"148.0|3";"CR3";"1. Liga Gruppe 3 (bis 11/12)";"1 liga gruppe 3";"True";"148";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CR3";"CHPR"
+"148.0|3";"1LG4";"1. Liga Gruppe 4 (bis 99/00)";"1 liga gruppe 4";"True";"148";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/1LG4";"CHPR"
+"148.0|3";"CHPR";"Promotion League";"promotion league";"False";"148";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHPR"
+
+"148.0|4";"CHC1";"1. Liga Classic Gruppe 1";"1 liga classic gruppe 1";"False";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHC1"
+"148.0|4";"CHC2";"1. Liga Classic Gruppe 2";"1 liga classic gruppe 2";"False";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHC2"
+"148.0|4";"CHC3";"1. Liga Classic Gruppe 3";"1 liga classic gruppe 3";"False";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHC3"
+"148.0|4";"C2I1";"2. Liga interregional - Gruppe 1 (bis 11/12)";"2 liga interregional gruppe 1";"True";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I1"
+"148.0|4";"C2I2";"2. Liga interregional - Gruppe 2 (bis 11/12)";"2 liga interregional gruppe 2";"True";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I2"
+"148.0|4";"C2I3";"2. Liga interregional - Gruppe 3 (bis 11/12)";"2 liga interregional gruppe 3";"True";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I3"
+"148.0|4";"C2I4";"2. Liga interregional - Gruppe 4 (bis 11/12)";"2 liga interregional gruppe 4";"True";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I4"
+"148.0|4";"C2I5";"2. Liga interregional - Gruppe 5 (bis 11/12)";"2 liga interregional gruppe 5";"True";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I5"
+"148.0|4";"C2I6";"2. Liga interregional - Gruppe 6 (bis 11/12)";"2 liga interregional gruppe 6";"True";"148";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C2I6"
+
+"148.0|5";"CIR1";"2. Liga interregional - Gruppe 1";"2 liga interregional gruppe 1";"False";"148";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR1"
+"148.0|5";"CIR2";"2. Liga interregional - Gruppe 2";"2 liga interregional gruppe 2";"False";"148";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR2"
+"148.0|5";"CIR3";"2. Liga interregional - Gruppe 3";"2 liga interregional gruppe 3";"False";"148";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR3"
+"148.0|5";"CIR4";"2. Liga interregional - Gruppe 4";"2 liga interregional gruppe 4";"False";"148";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR4"
+"148.0|5";"CIR5";"2. Liga interregional - Gruppe 5";"2 liga interregional gruppe 5";"False";"148";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR5"
+"148.0|5";"CIR6";"2. Liga interregional - Gruppe 6 (bis 21/22)";"2 liga interregional gruppe 6";"True";"148";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CIR6"
+
+"148.0|Youth";"CH17";"Swiss U17 Elite League";"swiss u17 elite league";"False";"148";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH17"
+"148.0|Youth";"CH18";"Swiss U18 Elite League (bis 22/23)";"swiss u18 elite league";"True";"148";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH18"
+"148.0|Youth";"C191";"Swiss U19 Elite League";"swiss u19 elite league";"False";"148";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C191"
+
+"157.0|3";"E3G1";"Primera Federación - Grupo I";"primera federaci n grupo i";"False";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E3G1"
+"157.0|3";"E3G2";"Primera Federación - Grupo II";"primera federaci n grupo ii";"False";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E3G2"
+"157.0|3";"ES3A";"Segunda División B - Grupo I (- 20/21)";"segunda divisi n b grupo i";"True";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3A"
+"157.0|3";"ES3B";"Segunda División B - Grupo II (-20/21)";"segunda divisi n b grupo ii";"True";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3B"
+"157.0|3";"ES3C";"Segunda División B - Grupo III (-20/21)";"segunda divisi n b grupo iii";"True";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3C"
+"157.0|3";"ES3D";"Segunda División B - Grupo IV (-20/21)";"segunda divisi n b grupo iv";"True";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3D"
+"157.0|3";"ES3E";"Segunda División B - Grupo V (- 20/21)";"segunda divisi n b grupo v";"True";"157";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES3E"
+
+"157.0|4";"E4G1";"Segunda Federación - Grupo I";"segunda federaci n grupo i";"False";"157";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G1"
+"157.0|4";"E4G2";"Segunda Federación - Grupo II";"segunda federaci n grupo ii";"False";"157";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G2"
+"157.0|4";"E4G3";"Segunda Federación - Grupo III";"segunda federaci n grupo iii";"False";"157";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G3"
+"157.0|4";"E4G4";"Segunda Federación - Grupo IV";"segunda federaci n grupo iv";"False";"157";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G4"
+"157.0|4";"E4G5";"Segunda Federación - Grupo V";"segunda federaci n grupo v";"False";"157";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E4G5"
+
+"172.0|3";"CZ3C";"Ceska fotbalova liga";"ceska fotbalova liga";"False";"172";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CZ3C"
+"172.0|3";"CZ3M";"Moravskoslezska fotbalova liga";"moravskoslezska fotbalova liga";"False";"172";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CZ3M"
+
+"174.0|3";"TR3A";"2.Lig Beyaz";"2 lig beyaz";"False";"174";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR3A"
+"174.0|3";"TR3B";"2.Lig Kirmizi";"2 lig kirmizi";"False";"174";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR3B"
+
+"174.0|4";"TR4A";"3.Lig Grup 1";"3 lig grup 1";"False";"174";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4A"
+"174.0|4";"TR4B";"3.Lig Grup 2";"3 lig grup 2";"False";"174";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4B"
+"174.0|4";"TR4C";"3.Lig Grup 3";"3 lig grup 3";"False";"174";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4C"
+"174.0|4";"TR4D";"3.Lig Grup 4";"3 lig grup 4";"False";"174";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TR4D"
+
+"174.0|Youth";"T191";"U19 Süper Lig";"u19 s per lig";"False";"174";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/T191"
+"174.0|Youth";"T211";"U21 Süper Lig";"u21 s per lig";"False";"174";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/T211"
+
+"178.0|2";"UN2";"Nemzeti Bajnokság II.";"nemzeti bajnoks g ii";"False";"178";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UN2"
+"178.0|2";"UNG2";"Ness Hungary NB II - Ost";"ness hungary nb ii ost";"False";"178";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UNG2"
+"178.0|2";"UG2W";"Ness Hungary NB II - West";"ness hungary nb ii west";"False";"178";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UG2W"
+
+"179.0|1";"URUE";"Campeonato Uruguayo Especial";"campeonato uruguayo especial";"False";"179";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URUE"
+"179.0|1";"URU1";"Liga AUF Apertura";"liga auf apertura";"True";"179";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URU1"
+"179.0|1";"URUC";"Liga AUF Clausura";"liga auf clausura";"True";"179";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/URUC"
+
+"18.0|1";"WER1";"Vysheyshaya Liga";"vysheyshaya liga";"False";"18";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WER1"
+"18.0|1";"BR94";"Vysheyshaya Liga 1994/95";"vysheyshaya liga 1994 95";"True";"18";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BR94"
+
+"182.0|1";"VZ1L";"Liga FUTVE";"liga futve";"False";"182";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VZ1L"
+"182.0|1";"VZ1A";"Liga FUTVE Apertura";"liga futve apertura";"True";"182";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VZ1A"
+"182.0|1";"VZ1C";"Liga FUTVE Clausura";"liga futve clausura";"True";"182";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VZ1C"
+
+"182.0|2";"VN2A";"Liga FUTVE 2";"liga futve 2";"False";"182";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VN2A"
+"182.0|2";"VN2C";"Liga FUTVE 2. Segunda Fase";"liga futve 2 segunda fase";"False";"182";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VN2C"
+
+"184.0|2";"NAFC";"NASL Fall Championship (2013 - 2017)";"nasl fall championship";"True";"184";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NAFC";"USL"
+"184.0|2";"USA2";"North American Soccer League (2011 - 2012)";"north american soccer league";"True";"184";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USA2";"USL"
+"184.0|2";"USL";"USL Championship";"usl championship";"False";"184";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USL"
+"184.0|2";"USFD";"USL First Division (2005 - 2009)";"usl first division";"True";"184";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USFD";"USL"
+"184.0|2";"UD2L";"USSF Division 2 Professional League (2010)";"ussf division 2 professional league";"True";"184";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/UD2L";"USL"
+
+"184.0|3";"MNP3";"MLS Next Pro";"mls next pro";"False";"184";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/MNP3"
+"184.0|3";"NIS3";"NISA";"nisa";"False";"184";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIS3";"NIS3"
+"184.0|3";"NIFS";"NISA Fall Season (- 2021)";"nisa fall season";"True";"184";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NIFS";"NIS3"
+"184.0|3";"NISR";"NISA Spring Season (- 2021)";"nisa spring season";"True";"184";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NISR"
+"184.0|3";"USC3";"USL League One";"usl league one";"False";"184";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/USC3"
+
+"189.0|1";"EFD1";"First Division (- 91/92)";"first division";"True";"189";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EFD1";"GB1"
+"189.0|1";"GB1";"Premier League";"premier league";"False";"189";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB1"
+
+"189.0|2";"GB2";"Championship";"championship";"False";"189";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB2"
+"189.0|2";"EFD2";"First Division (- 03/04)";"first division";"True";"189";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EFD2";"GB2"
+
+"189.0|3";"GB3";"League One";"league one";"False";"189";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB3"
+"189.0|3";"ENSD";"Second Division (- 03/04)";"second division";"True";"189";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ENSD";"GB3"
+
+"189.0|6";"NLN6";"National League North";"national league north";"False";"189";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLN6"
+"189.0|6";"NLS6";"National League South";"national league south";"False";"189";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NLS6"
+
+"189.0|PlayoffRelegation";"E21P";"Premier League 2 Playoffs";"premier league 2 playoffs";"False";"189";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/E21P"
+"189.0|PlayoffRelegation";"18GB";"U18 Premier League - Final Stage";"u18 premier league final stage";"False";"189";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/18GB"
+
+"189.0|Reserve";"GB21";"Premier League 2";"premier league 2";"False";"189";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GB21"
+"189.0|Reserve";"GBR";"Premier Reserve League";"premier reserve league";"False";"189";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GBR"
+"189.0|Reserve";"GBRN";"Premier Reserve League North";"premier reserve league north";"False";"189";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GBRN"
+"189.0|Reserve";"GBRS";"Premier Reserve League South";"premier reserve league south";"False";"189";"Reserve";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GBRS"
+
+"19.0|3";"BEL3";"1ste Nationale";"1ste nationale";"False";"19";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BEL3"
+"19.0|3";"BE3A";"1ste Nationale ACFF";"1ste nationale acff";"False";"19";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE3A"
+"19.0|3";"BE3V";"1ste Nationale VV";"1ste nationale vv";"False";"19";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE3V"
+
+"19.0|4";"ACFF";"2de Nationale ACFF";"2de nationale acff";"False";"19";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ACFF"
+"19.0|4";"VFVA";"2de Nationale VV A";"2de nationale vv a";"False";"19";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VFVA"
+"19.0|4";"VFVB";"2de Nationale VV B";"2de nationale vv b";"False";"19";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VFVB"
+
+"19.0|5";"BE5A";"3de Nationale VV A";"3de nationale vv a";"False";"19";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE5A"
+"19.0|5";"BE5B";"3de Nationale VV B";"3de nationale vv b";"False";"19";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE5B"
+
+"19.0|Youth";"BEY1";"U18 Elite 1 - Belgien";"u18 elite 1 belgien";"False";"19";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BEY1"
+"19.0|Youth";"BE21";"U21 Pro League";"u21 pro league";"False";"19";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BE21"
+
+"190.0|5";"SC5H";"Scottish Highland Football League";"scottish highland football league";"False";"190";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC5H"
+"190.0|5";"SC5L";"Scottish Lowland Football League";"scottish lowland football league";"False";"190";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC5L"
+
+"190.0|PlayoffRelegation";"SC4A";"Scottish League Two Abstiegsrunde";"scottish league two abstiegsrunde";"False";"190";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC4A"
+"190.0|PlayoffRelegation";"SC4M";"Scottish League Two Meisterrunde";"scottish league two meisterrunde";"False";"190";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SC4M"
+"190.0|PlayoffRelegation";"SL2P";"Scottish League Two Playoffs";"scottish league two playoffs";"False";"190";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL2P"
+
+"191.0|2";"WAL2";"Cymru North";"cymru north";"False";"191";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WAL2"
+"191.0|2";"WA2S";"Cymru South";"cymru south";"False";"191";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/WA2S"
+
+"215.0|Youth";"SB17";"Kadetska liga Srbije";"kadetska liga srbije";"False";"215";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SB17"
+"215.0|Youth";"SB19";"Omladinska liga Srbije";"omladinska liga srbije";"False";"215";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SB19"
+
+"228.0|1";"PRA1";"Liga Puerto Rico Apertura";"liga puerto rico apertura";"True";"228";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PRA1"
+"228.0|1";"PRC1";"Liga Puerto Rico Clausura";"liga puerto rico clausura";"True";"228";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PRC1"
+
+"23.0|1";"BO1A";"División Profesional";"divisi n profesional";"False";"23";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BO1A"
+"23.0|1";"B1AP";"División Profesional Apertura";"divisi n profesional apertura";"True";"23";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/B1AP"
+"23.0|1";"BO1C";"División Profesional Clausura";"divisi n profesional clausura";"True";"23";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BO1C"
+
+"24.0|2";"BOS2";"Prva liga FBiH";"prva liga fbih";"False";"24";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BOS2"
+"24.0|2";"BH2S";"Prva Liga RS";"prva liga rs";"False";"24";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BH2S"
+
+"24.0|Youth";"BI17";"Premijer Liga BiH U17";"premijer liga bih u17";"False";"24";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BI17"
+"24.0|Youth";"BI19";"Premijer Liga BiH U19";"premijer liga bih u19";"False";"24";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BI19"
+
+"26.0|StateChampionship";"BRCB";"Campeonato Baiano";"campeonato baiano";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCB"
+"26.0|StateChampionship";"BRDF";"Campeonato Brasiliense";"campeonato brasiliense";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRDF"
+"26.0|StateChampionship";"BRES";"Campeonato Capixaba";"campeonato capixaba";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRES"
+"26.0|StateChampionship";"BRCG";"Campeonato Carioca";"campeonato carioca";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCG"
+"26.0|StateChampionship";"BCE2";"Campeonato Cearense - Abstiegsrunde";"campeonato cearense abstiegsrunde";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BCE2"
+"26.0|StateChampionship";"BRga";"Campeonato Gaúcho - 2º Turno";"campeonato ga cho 2 turno";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRga"
+"26.0|StateChampionship";"BRQR";"Campeonato Gaúcho - Abstiegsrunde";"campeonato ga cho abstiegsrunde";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRQR"
+"26.0|StateChampionship";"BRGO";"Campeonato Goiano";"campeonato goiano";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRGO"
+"26.0|StateChampionship";"BRCM";"Campeonato Mineiro";"campeonato mineiro";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRCM"
+"26.0|StateChampionship";"BRPB";"Campeonato Paraibano";"campeonato paraibano";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRPB"
+"26.0|StateChampionship";"BRRN";"Campeonato Potiguar";"campeonato potiguar";"False";"26";"StateChampionship";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRRN"
+
+"33.0|1";"CLPD";"Liga de Primera";"liga de primera";"False";"33";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLPD"
+"33.0|1";"CHLA";"Torneo Apertura (-2016)";"torneo apertura";"True";"33";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHLA";"CLPD"
+"33.0|1";"CHL1";"Torneo Clausura (-2017)";"torneo clausura";"True";"33";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHL1";"CLPD"
+"33.0|1";"CHIÜ";"Torneo Transición (-2017)";"torneo transici n";"True";"33";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHIÜ";"CLPD"
+
+"33.0|2";"CL2B";"Liga de Ascenso";"liga de ascenso";"False";"33";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CL2B"
+"33.0|2";"CHL2";"Primera B Apertura (-2015)";"primera b apertura";"True";"33";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHL2";"CHL2"
+"33.0|2";"CH2C";"Primera B Clausura (-2016)";"primera b clausura";"True";"33";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH2C";"CHL2"
+
+"34.0|3";"CHL3";"China League Two A";"china league two a";"False";"34";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CHL3"
+"34.0|3";"CL3S";"China League Two B";"china league two b";"False";"34";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CL3S"
+"34.0|3";"CL3C";"China League Two C";"china league two c";"False";"34";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CL3C"
+"34.0|3";"CH3P";"League Two Promotion Stage";"league two promotion stage";"False";"34";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH3P"
+"34.0|3";"CH3R";"League Two Relegation Stage";"league two relegation stage";"False";"34";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CH3R"
+
+"36.0|1";"CRPD";"Primera División Apertura";"primera divisi n apertura";"True";"36";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CRPD"
+"36.0|1";"PDV1";"Primera División Clausura";"primera divisi n clausura";"True";"36";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/PDV1";
+"36.0|1";"CVSP";"Primera División Clausura 2. Phase (- 17/18)";"primera divisi n clausura 2 phase";"True";"36";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CVSP";"PDV1"
+"36.0|1";"CVF";"Primera División Clausura Finale";"primera divisi n clausura finale";"True";"36";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CVF"
+
+"39.0|3";"DK3O";"2.Division";"2 division";"False";"39";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DK3O"
+"39.0|3";"DKDA";"2.Division Abstiegsrunde";"2 division abstiegsrunde";"False";"39";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DKDA"
+"39.0|3";"DK3V";"2.Division Aufstiegsrunde";"2 division aufstiegsrunde";"False";"39";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DK3V"
+
+"39.0|Youth";"DKDD";"U19 Drenge Divisionen";"u19 drenge divisionen";"False";"39";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DKDD"
+"39.0|Youth";"DKDL";"U19 Drenge Ligaen";"u19 drenge ligaen";"False";"39";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DKDL"
+
+"40.0|3";"L3";"3. Liga";"3 liga";"False";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/L3"
+"40.0|3";"OBSM";"NOFV-Oberliga Mitte (91/92 - 93/94)";"nofv oberliga mitte";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBSM";"L3"
+"40.0|3";"OBSS";"NOFV-Oberliga Süd (91/92 - 93/94)";"nofv oberliga s d";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBSS";"L3"
+"40.0|3";"OBW3";"Oberliga Baden-Württemberg (- 93/94)";"oberliga baden w rttemberg";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBW3";"L3"
+"40.0|3";"NO93";"Oberliga Nord (- 93/94)";"oberliga nord";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/NO93";"L3"
+"40.0|3";"OLNA";"Oberliga Nordrhein (- 93/94)";"oberliga nordrhein";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLNA";"L3"
+"40.0|3";"SW93";"Oberliga Südwest (78/79 - 93/94)";"oberliga s dwest";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SW93";"L3"
+"40.0|3";"RN";"Regionalliga Nord (94/95 - 07/08)";"regionalliga nord";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RN";"L3"
+"40.0|3";"RNO";"Regionalliga Nord/Ost (94/95 - 99/00)";"regionalliga nord ost";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RNO";"L3"
+"40.0|3";"RS";"Regionalliga Süd (94/95 - 07/08)";"regionalliga s d";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RS";"L3"
+"40.0|3";"RWS";"Regionalliga West-Südwest (94/95 - 99/00)";"regionalliga west s dwest";"True";"40";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RWS";"L3"
+
+"40.0|4";"OL3";"NOFV-Oberliga Nord (- 07/08)";"nofv oberliga nord";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL3";"RLN4"
+"40.0|4";"OL4";"NOFV-Oberliga Süd (- 07/08)";"nofv oberliga s d";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL4";"RLN4"
+"40.0|4";"OL9";"Oberliga Baden-Württemberg (94/95- 07/08)";"oberliga baden w rttemberg";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL9";"RL2"
+"40.0|4";"OL0";"Oberliga Bayern (94/95- 07/08)";"oberliga bayern";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL0";"RLB3"
+"40.0|4";"OL1";"Oberliga Hamburg / S-H (- 03/04)";"oberliga hamburg s h";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL1";"RL1"
+"40.0|4";"OL7";"Oberliga Hessen (- 07/08)";"oberliga hessen";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL7";"RLN3"
+"40.0|4";"OL2";"Oberliga Niedersachsen/Bremen (- 03/04)";"oberliga niedersachsen bremen";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL2";"RLN3"
+"40.0|4";"OLA";"Oberliga Nord (- 07/08)";"oberliga nord";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLA";"RLN3"
+"40.0|4";"OL5";"Oberliga Nordrhein (94/95 - 07/08)";"oberliga nordrhein";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL5";"RLW3"
+"40.0|4";"OL8";"Oberliga Südwest (94/95 - 07/08)";"oberliga s dwest";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL8";"RLSW"
+"40.0|4";"OL6";"Oberliga Westfalen (94/95 - 07/08)";"oberliga westfalen";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OL6"; "RLW3"
+"40.0|4";"RLB3";"Regionalliga Bayern";"regionalliga bayern";"False";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLB3"
+"40.0|4";"RLN3";"Regionalliga Nord";"regionalliga nord";"False";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLN3"
+"40.0|4";"RL1";"Regionalliga Nord (- 11/12)";"regionalliga nord";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RL1";"RLN3"
+"40.0|4";"RLN4";"Regionalliga Nordost";"regionalliga nordost";"False";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLN4"
+"40.0|4";"RL2";"Regionalliga Süd (- 11/12)";"regionalliga s d";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RL2"
+"40.0|4";"RLSW";"Regionalliga Südwest";"regionalliga s dwest";"False";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLSW"
+"40.0|4";"RLW3";"Regionalliga West";"regionalliga west";"False";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RLW3"
+"40.0|4";"RL3";"Regionalliga West (- 11/12)";"regionalliga west";"True";"40";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RL3";"RLW3"
+
+"40.0|5";"OBLA";"Bayernliga (- 11/12)";"bayernliga";"True";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLA"
+"40.0|5";"OLB1";"Bayernliga Nord";"bayernliga nord";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLB1"
+"40.0|5";"OLB2";"Bayernliga Süd";"bayernliga s d";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLB2"
+"40.0|5";"OBLK";"Bremenliga";"bremenliga";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLK"
+"40.0|5";"OBLC";"Hessenliga";"hessenliga";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLC"
+"40.0|5";"OLMR";"Mittelrheinliga";"mittelrheinliga";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLMR"
+"40.0|5";"OBLF";"NOFV-Oberliga Nord";"nofv oberliga nord";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLF"
+"40.0|5";"OBLG";"NOFV-Oberliga Süd";"nofv oberliga s d";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLG"
+"40.0|5";"OBLE";"NRW-Liga (- 11/12)";"nrw liga";"True";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLE"
+"40.0|5";"OBLB";"Oberliga Baden-Württemberg";"oberliga baden w rttemberg";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLB"
+"40.0|5";"OBLJ";"Oberliga Hamburg";"oberliga hamburg";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLJ"
+"40.0|5";"OLNI";"Oberliga Niederrhein";"oberliga niederrhein";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLNI"
+"40.0|5";"OBLN";"Oberliga Niedersachsen";"oberliga niedersachsen";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLN"
+"40.0|5";"OBLI";"Oberliga Niedersachsen-Ost (- 09/10)";"oberliga niedersachsen ost";"True";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLI"
+"40.0|5";"OBLH";"Oberliga Niedersachsen-West (- 09/10)";"oberliga niedersachsen west";"True";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLH"
+"40.0|5";"OLRP";"Oberliga Rheinland-Pfalz/Saar";"oberliga rheinland pfalz saar";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLRP"
+"40.0|5";"OBLD";"Oberliga Südwest (08/09 - 11/12)";"oberliga s dwest";"True";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLD"
+"40.0|5";"OBLL";"Oberliga Schleswig-Holstein";"oberliga schleswig holstein";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OBLL"
+"40.0|5";"OLW3";"Oberliga Westfalen";"oberliga westfalen";"False";"40";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/OLW3"
+
+"40.0|6";"VLBE";"Berlin-Liga";"berlin liga";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLBE"
+"40.0|6";"BRBL";"Brandenburgliga";"brandenburgliga";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BRBL"
+"40.0|6";"LBMI";"Landesliga Bayern Mitte";"landesliga bayern mitte";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBMI"
+"40.0|6";"LBNO";"Landesliga Bayern Nordost";"landesliga bayern nordost";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBNO"
+"40.0|6";"LBNW";"Landesliga Bayern Nordwest";"landesliga bayern nordwest";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBNW"
+"40.0|6";"LBSO";"Landesliga Bayern Südost";"landesliga bayern s dost";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBSO"
+"40.0|6";"LBSW";"Landesliga Bayern Südwest";"landesliga bayern s dwest";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LBSW"
+"40.0|6";"LNBR";"Landesliga Braunschweig";"landesliga braunschweig";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNBR"
+"40.0|6";"LLHB";"Landesliga Bremen";"landesliga bremen";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHB"
+"40.0|6";"LH21";"Landesliga Hamburg (- 2022)";"landesliga hamburg";"True";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LH21"
+"40.0|6";"LLHM";"Landesliga Hammonia";"landesliga hammonia";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHM"
+"40.0|6";"LNHA";"Landesliga Hannover";"landesliga hannover";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNHA"
+"40.0|6";"LLHA";"Landesliga Hansa";"landesliga hansa";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHA"
+"40.0|6";"LLHO";"Landesliga Holstein";"landesliga holstein";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLHO"
+"40.0|6";"LLL";"Landesliga Lüneburg";"landesliga l neburg";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLL"
+"40.0|6";"LLM1";"Landesliga Mittelrhein Staffel 1";"landesliga mittelrhein staffel 1";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLM1"
+"40.0|6";"LLM2";"Landesliga Mittelrhein Staffel 2";"landesliga mittelrhein staffel 2";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLM2"
+"40.0|6";"LNR1";"Landesliga Niederrhein - Gruppe 1";"landesliga niederrhein gruppe 1";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNR1"
+"40.0|6";"LNR2";"Landesliga Niederrhein - Gruppe 2";"landesliga niederrhein gruppe 2";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNR2"
+"40.0|6";"LNR3";"Landesliga Niederrhein - Gruppe 3 (- 2023)";"landesliga niederrhein gruppe 3";"True";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNR3"
+"40.0|6";"LLSL";"Landesliga Schleswig";"landesliga schleswig";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLSL"
+"40.0|6";"LSHM";"Landesliga Schleswig-Holstein Mitte (- 2023)";"landesliga schleswig holstein mitte";"True";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LSHM"
+"40.0|6";"LNWE";"Landesliga Weser-Ems";"landesliga weser ems";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LNWE"
+"40.0|6";"RHL";"Rheinlandliga";"rheinlandliga";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RHL"
+"40.0|6";"SLI";"Sachsenliga";"sachsenliga";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SLI"
+"40.0|6";"LLSA";"Schröder-Liga Saar";"schr der liga saar";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LLSA"
+"40.0|6";"THLI";"Thüringenliga";"th ringenliga";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/THLI"
+"40.0|6";"VLBA";"Verbandsliga Baden";"verbandsliga baden";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLBA"
+"40.0|6";"VLHM";"Verbandsliga Hessen-Mitte";"verbandsliga hessen mitte";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLHM"
+"40.0|6";"VLHN";"Verbandsliga Hessen-Nord";"verbandsliga hessen nord";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLHN"
+"40.0|6";"VLHS";"Verbandsliga Hessen-Süd";"verbandsliga hessen s d";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLHS"
+"40.0|6";"VLMV";"Verbandsliga Mecklenburg-Vorpommern";"verbandsliga mecklenburg vorpommern";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLMV"
+"40.0|6";"VLSB";"Verbandsliga Südbaden";"verbandsliga s dbaden";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLSB"
+"40.0|6";"VLSW";"Verbandsliga Südwest";"verbandsliga s dwest";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLSW"
+"40.0|6";"VLSA";"Verbandsliga Sachsen-Anhalt";"verbandsliga sachsen anhalt";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLSA"
+"40.0|6";"VSNO";"Verbandsliga Schleswig-Holstein - Nord-Ost";"verbandsliga schleswig holstein nord ost";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VSNO"
+"40.0|6";"VSHO";"Verbandsliga Schleswig-Holstein - Süd-Ost";"verbandsliga schleswig holstein s d ost";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VSHO"
+"40.0|6";"VLBW";"Verbandsliga Württemberg";"verbandsliga w rttemberg";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLBW"
+"40.0|6";"VLW1";"Westfalenliga 1";"westfalenliga 1";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLW1"
+"40.0|6";"VLW2";"Westfalenliga 2";"westfalenliga 2";"False";"40";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/VLW2"
+
+"40.0|PlayoffRelegation";"LWEE";"Landesliga Weser-Ems - Endrunde";"landesliga weser ems endrunde";"False";"40";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LWEE"
+"40.0|PlayoffRelegation";"ORPE";"Oberliga Rheinland-Pfalz/Saar - Endrunde";"oberliga rheinland pfalz saar endrunde";"False";"40";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ORPE"
+
+"40.0|Youth";"AJ1";"A-Junioren Bundesliga Nord/Nordost (- 23/24)";"a junioren bundesliga nord nordost";"True";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ1"
+"40.0|Youth";"AJ3";"A-Junioren Bundesliga Süd/Südwest (- 23/24)";"a junioren bundesliga s d s dwest";"True";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ3"
+"40.0|Youth";"AJ2";"A-Junioren Bundesliga West (- 23/24)";"a junioren bundesliga west";"True";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AJ2"
+"40.0|Youth";"BJ1";"B-Junioren Bundesliga Nord/Nordost (- 23/24)";"b junioren bundesliga nord nordost";"True";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BJ1"
+"40.0|Youth";"BJ3";"B-Junioren Bundesliga Süd/Südwest (- 23/24)";"b junioren bundesliga s d s dwest";"True";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BJ3"
+"40.0|Youth";"BJ2";"B-Junioren Bundesliga West (- 23/24)";"b junioren bundesliga west";"True";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/BJ2"
+"40.0|Youth";"17LA";"U17 DFB-Nachwuchsliga - Hauptrunde Liga A";"u17 dfb nachwuchsliga hauptrunde liga a";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/17LA"
+"40.0|Youth";"17LB";"U17 DFB-Nachwuchsliga - Hauptrunde Liga B";"u17 dfb nachwuchsliga hauptrunde liga b";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/17LB"
+"40.0|Youth";"19LA";"U19 DFB-Nachwuchsliga - Hauptrunde Liga A";"u19 dfb nachwuchsliga hauptrunde liga a";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19LA"
+"40.0|Youth";"19LB";"U19 DFB-Nachwuchsliga - Hauptrunde Liga B";"u19 dfb nachwuchsliga hauptrunde liga b";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19LB"
+"40.0|Youth";"19D2";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe B";"u19 dfb nachwuchsliga vorrunde gruppe b";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D2"
+"40.0|Youth";"19D3";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe C";"u19 dfb nachwuchsliga vorrunde gruppe c";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D3"
+"40.0|Youth";"19D4";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe D";"u19 dfb nachwuchsliga vorrunde gruppe d";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D4"
+"40.0|Youth";"19D5";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe E";"u19 dfb nachwuchsliga vorrunde gruppe e";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D5"
+"40.0|Youth";"19D6";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe F";"u19 dfb nachwuchsliga vorrunde gruppe f";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D6"
+"40.0|Youth";"19D7";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe G";"u19 dfb nachwuchsliga vorrunde gruppe g";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D7"
+"40.0|Youth";"19D8";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe H";"u19 dfb nachwuchsliga vorrunde gruppe h";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D8"
+"40.0|Youth";"19D9";"U19 DFB-Nachwuchsliga - Vorrunde Gruppe I";"u19 dfb nachwuchsliga vorrunde gruppe i";"False";"40";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/19D9"
+
+"43.0|1";"DOM1";"Liga Dominicana de Fútbol";"liga dominicana de f tbol";"False";"43";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DOM1"
+"43.0|1";"DO1P";"Liga Dominicana de Fútbol - Liguilla";"liga dominicana de f tbol liguilla";"False";"43";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/DO1P"
+
+"44.0|1";"EC1N";"LigaPro Serie A";"ligapro serie a";"False";"44";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EC1N"
+"44.0|1";"EL1A";"LigaPro Serie A Primera Etapa";"ligapro serie a primera etapa";"False";"44";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EL1A"
+"44.0|1";"ECSE";"Serie A Segunda Etapa (bis 2018)";"serie a segunda etapa";"True";"44";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ECSE"
+
+"45.0|1";"SL1A";"Primera División Apertura";"primera divisi n apertura";"True";"45";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL1A"
+"45.0|1";"SL1C";"Primera División Clausura";"primera divisi n clausura";"True";"45";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/SL1C"
+
+"47.0|1";"ES1H";"Meistriliiga (92/93 bis 97/98)";"meistriliiga";"True";"47";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES1H";"EST1"
+"47.0|1";"EST1";"Premium Liiga";"premium liiga";"False";"47";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EST1"
+
+"47.0|Youth";"EE17";"U17 Eliitliiga";"u17 eliitliiga";"False";"47";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/EE17"
+"47.0|Youth";"ES17";"U17 Eliitliiga Esiliiga";"u17 eliitliiga esiliiga";"False";"47";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ES17"
+
+"49.0|3";"FI3N";"Kakkonen - Region Nord";"kakkonen region nord";"False";"49";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3N"
+"49.0|3";"FI3";"Kakkonen - Region Ost";"kakkonen region ost";"False";"49";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3"
+"49.0|3";"FI3S";"Kakkonen - Region Süd";"kakkonen region s d";"False";"49";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3S"
+"49.0|3";"FI3W";"Kakkonen - Region West";"kakkonen region west";"False";"49";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3W"
+"49.0|3";"FIYK";"Ykkönen";"ykk nen";"False";"49";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FIYK"
+
+"49.0|4";"FI3A";"Kakkonen - Gruppe A";"kakkonen gruppe a";"False";"49";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3A"
+"49.0|4";"FI3B";"Kakkonen - Gruppe B";"kakkonen gruppe b";"False";"49";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3B"
+"49.0|4";"FI3C";"Kakkonen - Gruppe C";"kakkonen gruppe c";"False";"49";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI3C"
+
+"49.0|5";"KOG1";"Kolmonen Etelä Gruppe A";"kolmonen etel gruppe a";"False";"49";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KOG1"
+"49.0|5";"KOG2";"Kolmonen Etelä Gruppe B";"kolmonen etel gruppe b";"False";"49";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KOG2"
+"49.0|5";"KOG3";"Kolmonen Etelä Gruppe C";"kolmonen etel gruppe c";"False";"49";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KOG3"
+"49.0|5";"FI4L";"Kolmonen Itäinen";"kolmonen it inen";"False";"49";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FI4L"
+"49.0|5";"F4LA";"Kolmonen Läntinen";"kolmonen l ntinen";"False";"49";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F4LA"
+"49.0|5";"F4KP";"Kolmonen Pohjoinen";"kolmonen pohjoinen";"False";"49";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F4KP"
+
+"49.0|Youth";"FJE";"A-Pojat SM Sarja Endrunde";"a pojat sm sarja endrunde";"False";"49";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FJE"
+"49.0|Youth";"FINJ";"A-pojat SM-sarja Qualifikation";"a pojat sm sarja qualifikation";"False";"49";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/FINJ"
+
+"5.0|PlayoffRelegation";"ANCR";"Championship Round";"championship round";"False";"5";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ANCR"
+"5.0|PlayoffRelegation";"ANPO";"Primera Divisió Playoffs";"primera divisi playoffs";"False";"5";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ANPO"
+"5.0|PlayoffRelegation";"ANRR";"Relegation Round";"relegation round";"False";"5";"PlayoffRelegation";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ANRR"
+
+"50.0|4";"CN2A";"Championnat National 2 - Groupe A";"championnat national 2 groupe a";"False";"50";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2A"
+"50.0|4";"CN2B";"Championnat National 2 - Groupe B";"championnat national 2 groupe b";"False";"50";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2B"
+"50.0|4";"CN2C";"Championnat National 2 - Groupe C";"championnat national 2 groupe c";"False";"50";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2C"
+"50.0|4";"CN2D";"Championnat National 2 - Groupe D";"championnat national 2 groupe d";"False";"50";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CN2D"
+
+"50.0|5";"C3CM";"Championnat National 3 - Groupe A";"championnat national 3 groupe a";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3CM"
+"50.0|5";"C3NA";"Championnat National 3 - Groupe B";"championnat national 3 groupe b";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3NA"
+"50.0|5";"C3VL";"Championnat National 3 - Groupe C";"championnat national 3 groupe c";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3VL"
+"50.0|5";"C3PL";"Championnat National 3 - Groupe D";"championnat national 3 groupe d";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3PL"
+"50.0|5";"C3BR";"Championnat National 3 - Groupe E";"championnat national 3 groupe e";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3BR"
+"50.0|5";"C3NO";"Championnat National 3 - Groupe F";"championnat national 3 groupe f";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3NO"
+"50.0|5";"C3HF";"Championnat National 3 - Groupe G";"championnat national 3 groupe g";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3HF"
+"50.0|5";"C3IF";"Championnat National 3 - Groupe H";"championnat national 3 groupe h";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3IF"
+"50.0|5";"C3GE";"Championnat National 3 - Groupe I";"championnat national 3 groupe i";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3GE"
+"50.0|5";"C3BF";"Championnat National 3 - Groupe J";"championnat national 3 groupe j";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3BF"
+"50.0|5";"C3AR";"Championnat National 3 - Groupe K";"championnat national 3 groupe k";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3AR"
+"50.0|5";"C3OC";"National 3 - Occitanie";"national 3 occitanie";"False";"50";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/C3OC"
+
+"50.0|Youth";"F19A";"Championnat National U19 - Groupe A";"championnat national u19 groupe a";"False";"50";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19A"
+"50.0|Youth";"F19B";"Championnat National U19 - Groupe B";"championnat national u19 groupe b";"False";"50";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19B"
+"50.0|Youth";"F19C";"Championnat National U19 - Groupe C";"championnat national u19 groupe c";"False";"50";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19C"
+"50.0|Youth";"F19D";"Championnat National U19 - Groupe D";"championnat national u19 groupe d";"False";"50";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/F19D"
+
+"53.0|1";"GE1N";"Erovnuli Liga";"erovnuli liga";"False";"53";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GE1N";"GEO1"
+"53.0|1";"GEO1";"Umaghlesi Liga (bis 12/2016)";"umaghlesi liga";"True";"53";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GEO1"
+
+"53.0|2";"GEO2";"Erovnuli Liga 2";"erovnuli liga 2";"False";"53";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GEO2"
+"53.0|2";"GE2H";"Pirveli Liga (bis 12/2016)";"pirveli liga";"True";"53";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GE2H";"GEO2"
+
+"56.0|2";"GR2N";"Football League Nord";"football league nord";"False";"56";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR2N"
+"56.0|2";"GR2S";"Football League Süd";"football league s d";"False";"56";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GR2S"
+"56.0|2";"GRS2";"Super League 2";"super league 2";"False";"56";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GRS2"
+
+"58.0|1";"GU1A";"Liga Nacional Apertura";"liga nacional apertura";"True";"58";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GU1A"
+"58.0|1";"GU1C";"Liga Nacional Clausura";"liga nacional clausura";"True";"58";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/GU1C"
+
+"66.0|1";"HO1A";"Liga Nacional Apertura";"liga nacional apertura";"True";"66";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HO1A"
+"66.0|1";"HOC1";"Liga Nacional Clausura";"liga nacional clausura";"True";"66";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/HOC1"
+
+"67.0|1";"IND1";"Indian Super League";"indian super league";"False";"67";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IND1"
+"67.0|1";"IN1A";"National Football League ('96-'07)";"national football league";"False";"67";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IN1A";"IND1"
+
+"71.0|1";"IR1H";"Azadegan League (1991 - 2001)";"azadegan league";"True";"71";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IR1H"
+"71.0|1";"IRN1";"Persian Gulf Pro League";"persian gulf pro league";"False";"71";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IRN1";"IR1H"
+
+"75.0|3";"IT3A";"Serie C - Girone A";"serie c girone a";"False";"75";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT3A"
+"75.0|3";"IT3B";"Serie C - Girone B";"serie c girone b";"False";"75";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT3B"
+"75.0|3";"IT3C";"Serie C - Girone C";"serie c girone c";"False";"75";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT3C"
+
+"75.0|4";"IT4X";"Lega Pro Seconda Divisione - Girone A";"lega pro seconda divisione girone a";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4X"
+"75.0|4";"IT4Y";"Lega Pro Seconda Divisione - Girone B";"lega pro seconda divisione girone b";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4Y"
+"75.0|4";"IT4Z";"Lega Pro Seconda Divisione - Girone C";"lega pro seconda divisione girone c";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4Z"
+"75.0|4";"IT4V";"Lega Pro Seconda Divisione - Girone D";"lega pro seconda divisione girone d";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4V"
+"75.0|4";"IT4A";"Serie D - Girone A";"serie d girone a";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4A"
+"75.0|4";"IT4B";"Serie D - Girone B";"serie d girone b";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4B"
+"75.0|4";"IT4C";"Serie D - Girone C";"serie d girone c";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4C"
+"75.0|4";"IT4D";"Serie D - Girone D";"serie d girone d";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4D"
+"75.0|4";"IT4E";"Serie D - Girone E";"serie d girone e";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4E"
+"75.0|4";"IT4F";"Serie D - Girone F";"serie d girone f";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4F"
+"75.0|4";"IT4G";"Serie D - Girone G";"serie d girone g";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4G"
+"75.0|4";"IT4H";"Serie D - Girone H";"serie d girone h";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4H"
+"75.0|4";"IT4I";"Serie D - Girone I";"serie d girone i";"False";"75";"4";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IT4I"
+
+"75.0|Youth";"ITJ8";"Campionato nazionale Under 17 2020/21";"campionato nazionale under 17 2020 21";"True";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ8"
+"75.0|Youth";"ITJ4";"Campionato nazionale Under 17 - A";"campionato nazionale under 17 a";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ4"
+"75.0|Youth";"ITJ5";"Campionato nazionale Under 17 - B";"campionato nazionale under 17 b";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ5"
+"75.0|Youth";"ITJ6";"Campionato nazionale Under 17 - C";"campionato nazionale under 17 c";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ6"
+"75.0|Youth";"ITJ9";"Campionato nazionale Under 18 - B";"campionato nazionale under 18 b";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ9"
+"75.0|Youth";"ITJ1";"Campionato Primavera Girone A";"campionato primavera girone a";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ1"
+"75.0|Youth";"ITJ2";"Campionato Primavera Girone B";"campionato primavera girone b";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ2"
+"75.0|Youth";"ITJ3";"Campionato Primavera Girone C";"campionato primavera girone c";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ3"
+"75.0|Youth";"ITJ0";"Campionato Primavera Girone D";"campionato primavera girone d";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ0"
+"75.0|Youth";"ITJ7";"Campionato Under 18";"campionato under 18";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ITJ7"
+"75.0|Youth";"IJ1";"Primavera 1";"primavera 1";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IJ1"
+"75.0|Youth";"IJ2A";"Primavera 2 - A";"primavera 2 a";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IJ2A"
+"75.0|Youth";"IJ2B";"Primavera 2 - B";"primavera 2 b";"False";"75";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/IJ2B"
+
+"77.0|1";"JAP1";"J1 League";"j1 league";"False";"77";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JAP1"
+"77.0|1";"JL11";"J1 League - First Stage ('93-'95,'97-'04,'15-'16)";"j1 league first stage";"False";"77";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JL11";"JAP1"
+
+"77.0|2";"JAP2";"J2 League";"j2 league";"False";"77";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JAP2"
+"77.0|2";"JFL1";"Japan Football League (1992-1998)";"japan football league";"True";"77";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JFL1";"JFL1"
+
+"77.0|5";"JCSL";"Chugoku Soccer League";"chugoku soccer league";"False";"77";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JCSL"
+"77.0|5";"JPKA";"Kansai Soccer League (Div.1)";"kansai soccer league";"False";"77";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JPKA"
+"77.0|5";"KTOS";"Kanto Soccer League (Div.1)";"kanto soccer league";"False";"77";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KTOS"
+"77.0|5";"JPKS";"Kyushu Soccer League";"kyushu soccer league";"False";"77";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/JPKS"
+"77.0|5";"TOHL";"Tohoku Soccer League (Div.1)";"tohoku soccer league";"False";"77";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TOHL"
+"77.0|5";"TOSL";"Tokai Soccer League (Div.1)";"tokai soccer league";"False";"77";"5";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/TOSL"
+
+"77.0|6";"J6K2";"Kanto Soccer League (Div.2)";"kanto soccer league";"False";"77";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J6K2"
+"77.0|6";"J6TN";"Tohoku Soccer League (Div.2 Nord)";"tohoku soccer league";"False";"77";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J6TN"
+"77.0|6";"J6T2";"Tokai Soccer League (Div.2)";"tokai soccer league";"False";"77";"6";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J6T2"
+
+"77.0|Youth";"J18E";"Prinz Takamado U18 Premier League Ost";"prinz takamado u18 premier league ost";"False";"77";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J18E"
+"77.0|Youth";"J18W";"Prinz Takamado U18 Premier League West";"prinz takamado u18 premier league west";"False";"77";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/J18W"
+
+"80.0|1";"CDN1";"Canadian Premier League";"canadian premier league";"False";"80";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CDN1"
+"80.0|1";"CA1F";"Canadian Premier League Fall Season";"canadian premier league fall season";"False";"80";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CA1F"
+
+"83.0|1";"COLP";"Liga DIMAYOR Apertura";"liga dimayor apertura";"True";"83";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/COLP"
+"83.0|1";"COL1";"Liga Dimayor Finalización";"liga dimayor finalizaci n";"False";"83";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/COL1"
+
+"83.0|2";"CO2T";"Torneo DIMAYOR I";"torneo dimayor i";"False";"83";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CO2T"
+"83.0|2";"CO22";"Torneo DIMAYOR II";"torneo dimayor ii";"False";"83";"2";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CO22"
+
+"87.0|1";"RSK1";"K League 1";"k league 1";"False";"87";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RSK1"
+"87.0|1";"KLS2";"K League - Second Stage ('84,'86,'95,'96,'04-'06)";"k league second stage";"False";"87";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KLS2";"RSK1"
+
+"87.0|3";"K3L";"K3 League";"k3 league";"False";"87";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/K3L"
+"87.0|3";"RKNL";"Korea National League (2011-2019)";"korea national league";"True";"87";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/RKNL";"K3L"
+"87.0|3";"KNL2";"Korea National League - Second Stage (2003-2010)";"korea national league second stage";"True";"87";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/KNL2";"K3L"
+
+"9.0|1";"CDLP";"Copa de la Liga Profesional de Fútbol (- 23/24)";"copa de la liga profesional de f tbol";"True";"9";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CDLP";"ARG1
+"9.0|1";"AR1N";"Liga Profesional de Fútbol (- 23/24)";"liga profesional de f tbol";"True";"9";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR1N";"ARG1
+"9.0|1";"ARG1";"Torneo Apertura";"torneo apertura";"True";"9";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARG1"
+"9.0|1";"ARGC";"Torneo Clausura";"torneo clausura";"True";"9";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARGC"
+
+"9.0|3";"AR3F";"Federal A - Fase Campeonato";"federal a fase campeonato";"False";"9";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR3F"
+"9.0|3";"AR3R";"Federal A - Fase Reválida";"federal a fase rev lida";"False";"9";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR3R"
+"9.0|3";"AR3D";"Primera División B Clausura";"primera divisi n b clausura";"True";"9";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/AR3D"
+"9.0|3";"ARG3";"Torneo Federal A";"torneo federal a";"False";"9";"3";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/ARG3"
+
+"9.0|Youth";"CLPI";"Copa LPF Proyección Apertura";"copa lpf proyecci n apertura";"True";"9";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLPI"
+"9.0|Youth";"CLPF";"Copa LPF Proyección Clausura";"copa lpf proyecci n clausura";"True";"9";"Youth";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/CLPF"
+
+"98.0|1";"LI1";"A Lyga";"a lyga";"False";"98";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LI1"
+"98.0|1";"LT1U";"A Lyga Übergangsrunde";"a lyga bergangsrunde";"False";"98";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LT1U"
+"98.0|1";"LIM";"A Lyga - Meisterrunde";"a lyga meisterrunde";"False";"98";"1";"https://www.transfermarkt.de/jumplist/startseite/wettbewerb/LIM"
