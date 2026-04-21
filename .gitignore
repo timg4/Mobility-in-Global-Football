@@ -1,3 +1,7 @@
 /data/tu_data.db
-.claude 
-
+.claude/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
