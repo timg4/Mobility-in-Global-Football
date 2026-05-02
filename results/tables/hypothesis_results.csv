@@ -1,0 +1,5 @@
+Hypothesis,Key Metric,Robustness,Verdict
+H1 – Concentration,Top-5: 12.5% | Top-10: 21.2% | HHI: 0.0096  (cross-league only),"Perm-only top-10: 14.4% | HHI: 0.0070 | MK(HHI): trend=decreasing, τ=-0.9323, p=0.0000",Moderate; HHI well below 0.25 → unequal but not monopolistic
+H2 – Bridge Leagues,Mid-tier share in top-25 betweenness: 40.0% vs 38.5% overall | lift: 1.04×,"Top-25 betweenness ranking, pseudo-leagues excluded",Not strongly supported — lift 1.04× (near baseline); top-1 leagues dominate betweenness
+H3 – Community Structure,Observed Q: 0.2718 | Null mean Q: 0.0645 | z = 160.12 | p = 0.000,20 null graphs; 26/26 seasons above null mean,Supported (p < 0.05)
+H4 – Lower-League Pathways,"Domestic — Top: 56.3%, Lower 5+: 91.9% | Upward — Lower 5+: 56.5% vs Top: 0.0%",Tier-flow matrix + directional analysis (aggregated),Supported
