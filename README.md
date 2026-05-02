@@ -11,7 +11,7 @@
 
 This project analyses global player mobility in football as a directed, weighted network. Each node is a football league; each edge represents the volume of player transfers between two leagues. We apply community detection and hypothesis testing to characterise the structure and dynamics of the global transfer market across 31 seasons (1995–2026).
 
-**Data source:** Transfermarkt (via internal SQLite database)  
+**Data source:** Transfermarkt  
 **Method:** CRISP-DM · igraph · Leiden community detection · Mann-Kendall trend test
 
 ---
@@ -49,7 +49,6 @@ This project analyses global player mobility in football as a directed, weighted
 └── proposal/                   # Original project proposal
 ```
 
-> **Note:** The raw database (`data/tu_data.db`, ~165 MB) is excluded from version control. Run `01_data_preparation.ipynb` with the database in place to regenerate all edge lists.
 
 ---
 
@@ -75,7 +74,7 @@ pip install -r requirements.txt
 
 Run the notebooks **in order** from the project root:
 
-1. **`01_data_preparation.ipynb`** — requires `data/tu_data.db`  
+1. **`01_data_preparation.ipynb`** — dataset is private  
    Cleans raw transfer records, maps competitions, and exports four edge-list CSVs to `data/prepared/`.
 
 2. **`02_analysis.ipynb`** — reads from `data/prepared/`  
