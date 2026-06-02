@@ -1,4 +1,4 @@
-/data/tu_data.db
+/data
 .claude/
 .venv/
 __pycache__/
