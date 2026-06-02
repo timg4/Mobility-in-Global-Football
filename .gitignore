@@ -1,4 +1,4 @@
-/data
+/data/*
 .claude/
 .venv/
 __pycache__/
