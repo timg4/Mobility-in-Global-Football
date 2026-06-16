@@ -1,0 +1,41 @@
+metric,rank,league_id,league_name,country,tier,group,score,in_strength,out_strength
+Betweenness,1,GB1,Premier League,England,1,Big-5,156370.0,7133,7072
+Betweenness,2,BRA1,Campeonato Brasileiro Série A,Brazil,1,Bridge-tier,145056.0,6581,7656
+Betweenness,3,L1,Bundesliga,Germany,1,Big-5,138251.0,3778,3920
+Betweenness,4,ES1,LaLiga,Spain,1,Big-5,122095.0,4853,5093
+Betweenness,5,L2,2. Bundesliga,Germany,2,Other,108782.5,3917,3830
+Betweenness,6,IT1,Serie A,Italy,1,Big-5,93037.0,11611,11694
+Betweenness,7,PO1,Liga Portugal,Portugal,1,Bridge-tier,91978.0,5082,5386
+Betweenness,8,L3,3. Liga,Germany,3,Other,90097.0,2949,2824
+Betweenness,9,FR1,Ligue 1,France,1,Big-5,54154.0,4584,5223
+Betweenness,10,GB2,Championship,England,2,Other,53178.0,8392,8655
+Turnover ratio,1,ES3D,Segunda División B - Grupo IV (-20/21),Spain,3,Other,0.999417,1715,1714
+Turnover ratio,2,IT2,Serie B,Italy,2,Other,0.99817,9816,9834
+Turnover ratio,3,OBLB,Oberliga Baden-Württemberg,Germany,5,Other,0.997636,422,423
+Turnover ratio,4,TR2,1.Lig,Turkey,2,Other,0.997381,5331,5345
+Turnover ratio,5,MEXA,Liga MX Apertura,Mexico,1,Bridge-tier,0.996583,3208,3219
+Turnover ratio,6,ES2,LaLiga2,Spain,2,Other,0.996337,5440,5460
+Turnover ratio,7,CSL,Chinese Super League,China,1,Bridge-tier,0.996224,1854,1847
+Turnover ratio,8,RU1,Premier Liga,Russia,1,Bridge-tier,0.993891,3254,3274
+Turnover ratio,9,PT3A,Liga 3,Portugal,3,Other,0.993333,596,600
+Turnover ratio,10,FR3,Championnat National,France,3,Other,0.993146,2772,2753
+Brokerage score,1,IT1,Serie A,Italy,1,Big-5,9.985089,11611,11694
+Brokerage score,2,IT2,Serie B,Italy,2,Other,9.867789,9816,9834
+Brokerage score,3,GB1,Premier League,England,1,Big-5,9.479652,7133,7072
+Brokerage score,4,GB2,Championship,England,2,Other,9.447703,8392,8655
+Brokerage score,5,GB3,League One,England,3,Other,9.406812,7185,7319
+Brokerage score,6,ES2,LaLiga2,Spain,2,Other,9.262556,5440,5460
+Brokerage score,7,TR2,1.Lig,Turkey,2,Other,9.251551,5331,5345
+Brokerage score,8,TR1,Süper Lig,Turkey,1,Bridge-tier,9.202804,6272,6124
+Brokerage score,9,IT3A,Serie C - Girone A,Italy,3,Other,9.120678,6109,5930
+Brokerage score,10,IT3B,Serie C - Girone B,Italy,3,Other,9.072611,6314,6078
+Cross-community share,1,ES1H,Meistriliiga (92/93 bis 97/98),Estonia,1,Other,1.0,1,1
+Cross-community share,2,FI4L,Kolmonen Itäinen,Finland,5,Other,1.0,1,1
+Cross-community share,3,GZO1,Gozo Football League First Division,Malta,1,Other,0.9,12,10
+Cross-community share,4,NPFL,Nigeria Professional Football League,Nigeria,1,Other,0.891089,38,101
+Cross-community share,5,AUS1,A-League Men,Australia,1,Bridge-tier,0.863555,609,557
+Cross-community share,6,SFA1,Betway Premiership,Scotland,1,Big-5,0.84106,149,151
+Cross-community share,7,GI1,Gibraltar Football League,Gibraltar,1,Other,0.833333,103,54
+Cross-community share,8,MT1N,Premier League Opening Round,Malta,1,Other,0.818182,18,11
+Cross-community share,9,UGL1,Uganda Premier League,Uganda,1,Other,0.8125,7,16
+Cross-community share,10,GHPL,Ghana Premier League,Ghana,1,Other,0.801587,49,126
