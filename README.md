@@ -32,13 +32,6 @@ This project analyses global player mobility in football as a directed, weighted
 ```
 ├── 01_data_preparation.ipynb   # Data extraction, cleaning, edge list export
 ├── 02_analysis.ipynb           # Network analysis, hypothesis tests, visualisations
-├── data/
-│   ├── competition_mapping.csv # League metadata (name, country, tier)
-│   └── prepared/               # Cleaned edge lists (input to 02_analysis)
-│       ├── edge_all_strict.csv
-│       ├── edge_all_with_unknown.csv
-│       ├── edge_season_strict.csv
-│       └── edge_season_with_unknown.csv
 ├── results/
 │   ├── figures/                # All generated plots (PNG + interactive HTML)
 │   └── tables/                 # Exported result tables (CSV)
