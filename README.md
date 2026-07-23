@@ -35,6 +35,7 @@ This project analyses global player mobility in football as a directed, weighted
 ├── results/
 │   ├── figures/                # All generated plots (PNG + interactive HTML)
 │   └── tables/                 # Exported result tables (CSV)
+├── Global_Player_Mobility_in_Football.pdf # Project Report         
 └── proposal/                   # Original project proposal
 ```
 
