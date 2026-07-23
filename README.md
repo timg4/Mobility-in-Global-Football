@@ -42,10 +42,6 @@ This project analyses global player mobility in football as a directed, weighted
 ├── results/
 │   ├── figures/                # All generated plots (PNG + interactive HTML)
 │   └── tables/                 # Exported result tables (CSV)
-├── scripts/
-│   └── competition_mapping.py  # Transfermarkt scraper for competition metadata
-├── docs/
-│   └── neo4j_import.md         # Guide for loading data into Neo4j
 └── proposal/                   # Original project proposal
 ```
 
