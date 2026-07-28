@@ -40,25 +40,15 @@ Edges are weighted by **transfer counts**, not fees: fees are disclosed for only
 ## Repository Structure
 
 ```
-├── 01_data_preparation.ipynb              # Cleaning, imputation, season mapping, edge list export
-├── 02_analysis.ipynb                      # Network analysis, hypothesis tests H1–H4, loans, figures
-├── Global_Player_Mobility_in_Football.pdf # Project report
-├── requirements.txt
-├── data/                                  # not in the repo (private dataset, gitignored)
-│   ├── tu_data.db                         # raw Transfermarkt tables
-│   ├── competition_mapping.csv            # league metadata (name, country, tier, canonical ids)
-│   └── prepared/                          # edge lists written by notebook 01
-│       ├── edge_all_strict.csv
-│       ├── edge_all_with_unknown.csv
-│       ├── edge_season_strict.csv
-│       └── edge_season_with_unknown.csv
+├── 01_data_preparation.ipynb   # Data extraction, cleaning, edge list export
+├── 02_analysis.ipynb           # Network analysis, hypothesis tests, visualisations
 ├── results/
-│   ├── figures/                           # generated plots (PNG + interactive HTML)
-│   └── tables/                            # exported result tables (CSV)
-└── proposal/                              # original project proposal
+│   ├── figures/                # All generated plots (PNG + interactive HTML)
+│   └── tables/                 # Exported result tables (CSV)
+├── Global_Player_Mobility_in_Football.pdf # Project Report         
+└── proposal/                   # Original project proposal
 ```
 
-All analyses use the **strict** variant, which drops transfers where either endpoint has no identified competition. The four Transfermarkt pseudo-states (`RETIREMENT`, `WITHOUT_CLUB`, `UNKNOWN_CLUB`, `CAREER_BREAK`) are not real leagues and are excluded from the network.
 
 ---
 
