@@ -1,18 +1,28 @@
 # Global Player Mobility in Football
 ### A League-to-League Network Analysis
 
-**Interdisciplinary Project** — WU Wien × TU Wien  
-**Author:** Tim Greß (12412672)  
+**Interdisciplinary Project** — WU Wien × TU Wien
+**Author:** Tim Greß (12412672)
 **Supervisors:** Sebastian Hattinger (WU Wien) · Prof. Emanuel Sallinger (TU Wien)
 
 ---
 
 ## Overview
 
-This project analyses global player mobility in football as a directed, weighted network. Each node is a football league; each edge represents the volume of player transfers between two leagues. We apply community detection and hypothesis testing to characterise the structure and dynamics of the global transfer market across 31 seasons (1995–2026).
+This project analyses global player mobility in football as a directed, weighted network. Each node is a league, each edge is the volume of player transfers between two leagues. The network is used to test four structural hypotheses about market concentration, bridge leagues, community structure and lower-tier pathways across 32 seasons (1994/95–2025/26).
 
-**Data source:** Transfermarkt  
-**Method:** CRISP-DM · igraph · Leiden community detection · Mann-Kendall trend test
+Edges are weighted by **transfer counts**, not fees: fees are disclosed for only ~5 % of transfers and are missing in a systematic way that would bias the results against smaller and non-European leagues.
+
+**Data source:** Transfermarkt (provided by WU Wien)
+**Method:** CRISP-DM · igraph · Leiden community detection · degree-preserving null model · Mann-Kendall trend test
+
+| | |
+|---|---|
+| Analysis window | 1 Jan 1995 – 27 Jan 2026 (32 seasons) |
+| League-to-league transfers (strict) | 586,520 |
+| Used in the network (after removing pseudo-leagues) | 482,770 |
+| Leagues / countries | 691 / 118 |
+| Communities detected (Leiden) | 17 |
 
 ---
 
@@ -21,50 +31,42 @@ This project analyses global player mobility in football as a directed, weighted
 | # | Hypothesis | Short description |
 |---|-----------|-------------------|
 | H1 | Concentration | Incoming transfer flows are highly concentrated among a small number of leagues |
-| H2 | Bridge Leagues | Mid-level leagues exhibit disproportionately high betweenness centrality |
+| H2 | Bridge Leagues | Some mid-level leagues act as bridges between regions and/or tier systems |
 | H3 | Community Structure | The network exhibits non-random community structure exceeding a degree-preserving null model |
-| H4 | Lower-League Pathways | Transfers from lower-tier leagues are predominantly domestic |
+| H4 | Lower-League Pathways | Transfers from lower tiers are predominantly domestic and upward |
 
 ---
 
 ## Repository Structure
 
 ```
-├── 01_data_preparation.ipynb   # Data extraction, cleaning, edge list export
-├── 02_analysis.ipynb           # Network analysis, hypothesis tests, visualisations
-├── data/
-│   ├── competition_mapping.csv # League metadata (name, country, tier)
-│   └── prepared/               # Cleaned edge lists (input to 02_analysis)
+├── 01_data_preparation.ipynb              # Cleaning, imputation, season mapping, edge list export
+├── 02_analysis.ipynb                      # Network analysis, hypothesis tests H1–H4, loans, figures
+├── Global_Player_Mobility_in_Football.pdf # Project report
+├── requirements.txt
+├── data/                                  # not in the repo (private dataset, gitignored)
+│   ├── tu_data.db                         # raw Transfermarkt tables
+│   ├── competition_mapping.csv            # league metadata (name, country, tier, canonical ids)
+│   └── prepared/                          # edge lists written by notebook 01
 │       ├── edge_all_strict.csv
 │       ├── edge_all_with_unknown.csv
 │       ├── edge_season_strict.csv
 │       └── edge_season_with_unknown.csv
 ├── results/
-│   ├── figures/                # All generated plots (PNG + interactive HTML)
-│   └── tables/                 # Exported result tables (CSV)
-├── scripts/
-│   └── competition_mapping.py  # Transfermarkt scraper for competition metadata
-├── docs/
-│   └── neo4j_import.md         # Guide for loading data into Neo4j
-└── proposal/                   # Original project proposal
+│   ├── figures/                           # generated plots (PNG + interactive HTML)
+│   └── tables/                            # exported result tables (CSV)
+└── proposal/                              # original project proposal
 ```
 
+All analyses use the **strict** variant, which drops transfers where either endpoint has no identified competition. The four Transfermarkt pseudo-states (`RETIREMENT`, `WITHOUT_CLUB`, `UNKNOWN_CLUB`, `CAREER_BREAK`) are not real leagues and are excluded from the network.
 
 ---
 
 ## Setup
 
 ```bash
-# 1. Clone the repository
-git clone <repo-url>
-cd Interdis
-
-# 2. Create and activate a virtual environment
 python -m venv .venv
 .venv\Scripts\activate        # Windows
-# source .venv/bin/activate   # macOS / Linux
-
-# 3. Install dependencies
 pip install -r requirements.txt
 ```
 
@@ -74,11 +76,11 @@ pip install -r requirements.txt
 
 Run the notebooks **in order** from the project root:
 
-1. **`01_data_preparation.ipynb`** — dataset is private  
-   Cleans raw transfer records, maps competitions, and exports four edge-list CSVs to `data/prepared/`.
+1. **`01_data_preparation.ipynb`** — reads `data/tu_data.db` (private)
+   Cleans the raw transfer records, imputes missing competition IDs, fixes the date encoding, sets the analysis window and exports four edge-list CSVs to `data/prepared/`.
 
-2. **`02_analysis.ipynb`** — reads from `data/prepared/`  
-   Builds the transfer network, runs hypothesis tests H1–H4, generates all figures and exports result tables to `results/`.
+2. **`02_analysis.ipynb`** — reads `data/prepared/` and `data/tu_data.db`
+   Builds the graphs, runs H1–H4 plus the loan analysis, and writes all figures and tables to `results/`.
 
 ---
 
@@ -86,15 +88,69 @@ Run the notebooks **in order** from the project root:
 
 | Hypothesis | Verdict |
 |-----------|---------|
-| H1 – Concentration | Moderate concentration; top-5 leagues receive ~35 % of all cross-league inflows (HHI ≈ 0.05) |
-| H2 – Bridge Leagues | Not strongly supported; mid-tier lift ≈ 1.04× (near baseline) |
-| H3 – Community Structure | Supported (p < 0.05); observed modularity Q significantly exceeds null model |
-| H4 – Lower-League Pathways | Supported; lower-tier leagues show substantially higher domestic transfer share |
+| H1 – Concentration | **Not supported** by the ex-ante thresholds (HHI = 0.0096, Top-5 = 12.4 %), but concentration declines monotonically over the whole window (Mann-Kendall τ = −0.93, p < 0.0001) |
+| H2 – Bridge Leagues | **Supported (qualified)** — brokerage peaks among mid-standing leagues (inverted-U, quadratic coef −0.53, peak at 52 % standing, permutation p = 0.004) |
+| H3 – Community Structure | **Supported** — Q = 0.2768 vs. null mean 0.0692 (z = 158.6, p < 0.001, 1,000 rewirings); 26/26 seasons above the null mean |
+| H4 – Lower-League Pathways | **Supported** — domestic share rises from 56.3 % (tier 1) to 91.9 % (tier 5+); 56.5 % of tier-5+ moves are upward |
 
-Full results with robustness checks: `results/tables/hypothesis_results.csv`
+Full results: `results/tables/hypothesis_results.csv`
+
+### H2 in two steps
+
+The originally planned KPI (mid-tier share among the top-25 leagues by betweenness) returned a lift of ≈ 0.9×. Inspection showed that betweenness on a count-weighted graph ranks large hubs rather than bridges, and that "mid-level" in the proposal means intermediate **global standing** (Portugal, the Netherlands, Belgium are first divisions but classic stepping stones), not domestic tier 2–4. Following the iterative logic of CRISP-DM the analysis returned to the modelling phase:
+
+- **Standing** = median market value of a league's incoming players. Transfermarkt has a market value for ~86 % of transferred players, so unlike fees it is not systematically missing for smaller leagues. It is used only as a node attribute — the edges stay count-weighted.
+- **Bridge score** = √(share of outflow going *up* and across communities × share of inflow coming *from below* and across communities). A pure hub or a pure sink collapses one factor, and domestic pyramid churn is excluded because it stays inside one community.
+- Tested on 51 first divisions with ≥ 1,000 cross-league transfers, against a permutation null that shuffles the standing labels.
+
+Both steps are kept in the notebook (section 03b), so the revision is traceable.
+
+### Loans (exploratory)
+
+Loans are flagged explicitly in the data, which allows following each loaned player:
+
+| | |
+|---|---|
+| Loan episodes | 126,364 |
+| Return to the parent club | 95.2 % (domestic 95.0 %, international 96.1 %) |
+| Median loan length | 181 days |
+| Domestic loans | 79.4 % |
+| Direction | 50.1 % to a lower division · 41.3 % same level · 8.6 % upward |
+| Later permanent move to the loan club | 15.2 % |
+
+Loans are the mirror image of H4: permanent lower-tier moves go upward, loans go downward and come back.
+
+---
+
+## Outputs
+
+**Figures** (`results/figures/`)
+
+| File | Content |
+|---|---|
+| `fig_inflow_top20.png` | Top-20 leagues by incoming transfers (H1) |
+| `fig_flow_heatmap.png` | League-to-league flow heatmap, top 15 × 15 |
+| `fig_h2_betweenness.png` | Top-25 leagues by betweenness centrality (H2, initial step) |
+| `fig_h2_bridge_standing.png` | Bridge score vs. global standing, inverted-U (H2, revised) |
+| `fig_community_sizes.png` | Community sizes and dominant leagues (H3) |
+| `fig_h4_tier_domestic.png` | Domestic vs. international share by source tier (H4) |
+| `fig_loan_direction.png` | Loan direction along the league pyramid |
+| `fig_loan_exporters.png` | Top loan-exporting leagues |
+| `fig_season_trends.png` | Per-season concentration and modularity trends |
+| `fig_community_metagraph.html` | Interactive community meta-graph |
+| `fig_community_map.html` | Interactive choropleth of dominant community per country |
+
+**Tables** (`results/tables/`)
+
+| File | Content |
+|---|---|
+| `hypothesis_results.csv` | KPI, robustness and verdict per hypothesis |
+| `community_membership.csv` | Leiden communities with labels, sizes and top leagues |
+| `h2_bridge_standing.csv` | Bridge score and standing for the 51 leagues in the H2 universe |
+| `loan_summary.csv` | Loan return rates, duration, direction |
 
 ---
 
 ## Reproducibility
 
-All stochastic steps use `seed=12412672`. The Leiden community detection and null model permutations are fully reproducible given the same seed and data.
+All stochastic steps use `seed = 12412672`. Leiden partitioning, the degree-preserving null model (1,000 rewirings) and the H2 permutation test (500 permutations) reproduce exactly given the same seed and data. Both notebooks use paths relative to the project root.
