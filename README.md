@@ -13,7 +13,7 @@ This project analyses global player mobility in football as a directed, weighted
 
 Edges are weighted by **transfer counts**, not fees: fees are disclosed for only ~5 % of transfers and are missing in a systematic way that would bias the results against smaller and non-European leagues.
 
-**Data source:** Transfermarkt (provided by WU Wien)
+**Data source:** Transfermarkt, provided by the Institute of International Business, WU Vienna (proprietary, not included in this repository)
 **Method:** CRISP-DM · igraph · Leiden community detection · degree-preserving null model · Mann-Kendall trend test
 
 | | |
@@ -138,6 +138,17 @@ Loans are the mirror image of H4: permanent lower-tier moves go upward, loans go
 | `community_membership.csv` | Leiden communities with labels, sizes and top leagues |
 | `h2_bridge_standing.csv` | Bridge score and standing for the 51 leagues in the H2 universe |
 | `loan_summary.csv` | Loan return rates, duration, direction |
+
+---
+
+## Data & Acknowledgement
+
+The transfer dataset used in this project originates from Transfermarkt and was provided by the **Institute of International Business, WU Vienna**. It was made available under a Data and Intellectual Property Agreement for external research use. The research project is led by Sebastian Hattinger and supervised by Dr. Jakob Müllner (Institute of International Business, WU Vienna).
+
+- The dataset is **not part of this repository** and is not redistributed — `data/` is git-ignored.
+- Only aggregated results are published here (network measures, coefficients, league-level summaries and figures). No raw records and no individual-level data points.
+- All intellectual property rights in the data, its structure and any derived results remain with the Institute of International Business, WU Vienna.
+- Any further use, distribution or publication of the data or of derived results requires prior written consent from the Institute. Commercial use is not permitted.
 
 ---
 
